@@ -1,0 +1,1365 @@
+﻿Following are non-Paraphrases that are getting classified as Paraphrases
+====================================================================================================================================
+Case#12
+martin, 58, will be freed today after serving two thirds of his five-year sentence for the manslaughter of 16-year-old fred barras.
+martin served two thirds of a five-year sentence for the manslaughter of barras and for wounding fearon.
+Here the cardinality of the two sentences are not matching.
+-----------------------------------------------------------------
+Case#15
+the 30-year bond us30yt=rr rose 22/32 for a yield of 4.31 percent, versus 4.35 percent at wednesday's close.
+the 30-year bond us30yt=rr grew 1-3/32 for a yield of 4.30 percent, down from 4.35 percent late wednesday.
+Here it is not possible for detection. - cardinality
+-----------------------------------------------------------------
+Case#19
+a tropical storm rapidly developed in the gulf of mexico sunday and was expected to hit somewhere along the texas or louisiana coasts by monday night.
+a tropical storm rapidly developed in the gulf of mexico on sunday and could have hurricane-force winds when it hits land somewhere along the louisiana coast monday night.
+Here the unigram feature is greater that of sentence length. Extra information. - SVO, PNN should work
+-----------------------------------------------------------------
+Case#22
+air commodore quaife said the hornets remained on three-minute alert throughout the operation.
+air commodore john quaife said the security operation was unprecedented.
+Here there is no match in unigrams. - Bigrams, SkipGrams ???
+-----------------------------------------------------------------
+Case#29
+hong kong was flat, australia , singapore and south korea lost 0.2-0.4 percent.
+australia was flat, singapore was down 0.3 percent by midday and south korea added 0.2 percent.
+The cardinality is not matching. Only the unigrams are matching.
+-----------------------------------------------------------------
+Case#47
+the daily hurriyet said the raid aimed to foil a turkish plot to kill an unnamed senior iraqi official in kirkuk.
+the daily hurriyet said the raid aimed to foil a turkish plot to kill an unnamed senior iraqi kurdish official in kirkuk, but gul has denied any turkish plot.
+The information in sentence 2 is more that that of sentence 1.
+-----------------------------------------------------------------
+Case#48
+"it was a little bit embarrassing the way we played in the first two games," thomas said.
+"we're in the stanley cup finals, and it was a little bit embarrassing the way we played in the first two games.
+The information is more in the sentence 2 than in sentence 1 even though the entire unigrams in sentence 1 is matching with that of sentence 2.
+-----------------------------------------------------------------
+Case#51
+the women said victims of rape who came forward routinely were punished for minor infractions while their assailants escaped judgment.
+the women said victims of rape who came forward were routinely punished for minor infractions while their attackers escaped judgment, prompting most victims to remain silent.
+ The information is more in the sentence 2 than in sentence 1 even though the entire unigrams in sentence 1 is matching with that of sentence 2.
+
+-----------------------------------------------------------------
+Case#62
+thanks to the euro's rise against the japanese currency, the dollar was at 117.24 yen, well above the overnight 10-month low of 116 yen.
+the euro's rise against the yen and speculation of japanese intervention helped the dollar firm to 117.25 yen , well above a 10-month low of 116 yen hit on thursday.
+ The information is more in the sentence 2 than in sentence 1 even though the entire unigrams in sentence 1 is matching with that of sentence 2.
+
+-----------------------------------------------------------------
+Case#89
+nasiriya, iraq—iraqi doctors who treated former prisoner of war jessica lynch have angrily dismissed claims made in her biography that she was raped by her iraqi captors.
+former prisoner of war pfc. jessica lynch is winning admiration in her hometown all over again for the courage to reveal she was raped by her iraqi captors.
+I think the number of matches in both the sentences are very low.I guess that the unigram must have detected this as �not paraphrases�.
+-----------------------------------------------------------------
+Case#94
+it was the best advance since oct. 1, when the index gained 22.25.
+standard & poor's 500 index rose 15.66 to 1,046.79, its best advance since oct. 1, when it gained 22.25.
+The cardinality feature helps here.The length of the two sentences do not match.
+-----------------------------------------------------------------
+Case#97
+if shelley certifies enough are valid, the lieutenant governor must call an election within 60 to 80 days, setting the state into uncharted political waters.
+if the democrat certifies that there are enough valid signatures, the lieutenant governor must call an election within 60 to 80 days.
+There is a mismatch in the length of the sentences. Also most of the unigrams have a mismatch. 
+-----------------------------------------------------------------
+Case#100
+during a screaming match in 1999, carolyn told john she was still sleeping with bergin.
+she, in turn, occasionally told john that she was still sleeping with an ex-boyfriend, "baywatch" hunk michael bergin.
+Here the proper noun similarity is not working. There is only unigram match. The sentence lengths are not matching.
+-----------------------------------------------------------------
+Case#101
+"the vulnerabilities all relate to a lack of effective faa oversight that needs to be improved," the report said.
+"these vulnerabilities all relate to a lack of effective faa oversight and, if not corrected, could lead to an erosion of safety," said the report.
+ The sentence lengths are not matching. The sentences two has some extra info.
+-----------------------------------------------------------------
+Case#104
+russ britt is the los angeles bureau chief for cbs.marketwatch.com.
+emily church is london bureau chief of cbs.marketwatch.com.
+The proper noun feature is not working properly.
+-----------------------------------------------------------------
+Case#106
+worldcom's accounting problems came to light early last year, and the company filed for bankruptcy in july 2002, citing massive accounting irregularities.
+worldcom's financial troubles came to light last year and the company subsequently filed for bankruptcy in july, 2002.
+Length of sentence 1 is more than sentence2. Sentence 1 has more info. But only the unigrams are matching in sentence 2.
+-----------------------------------------------------------------
+Case#131
+"the gpl violates the u.s. constitution, together with copyright, antitrust and export control laws, and ibms claims based thereon, or related thereto, are barred."
+sco's filings also assert that "the gpl violates the u.s. constitution, together with copyright, antitrust and export control laws."
+ Length of sentence 1 is more than sentence2. Sentence 1 has more info. But only the unigrams are matching in sentence 2.
+
+-----------------------------------------------------------------
+Case#134
+garner said the self-proclaimed mayor of baghdad, mohammed mohsen al-zubaidi, was released after two days in coalition custody.
+garner said self-proclaimed baghdad mayor mohammed mohsen zubaidi was released 48 hours after his detention in late april.
+There can be nothing done to this sentence.
+-----------------------------------------------------------------
+Case#137
+in a not-too-subtle swipe at dean, he predicted americans would not elect a democrat "who sounds an uncertain trumpet in these dangerous times."
+they will not elect as president a democrat who sounds an uncertain trumpet in these dangerous times."
+ Length of sentence 1 is more than sentence2. Sentence 1 has more info. But only the unigrams are matching in sentence 2.
+
+
+-----------------------------------------------------------------
+Case#144
+at least five class-action lawsuits have been filed, including one in pennsylvania.
+at least five class-action lawsuits have been filed on behalf of hormone users.
+Proper noun feature is not working in this case.
+-----------------------------------------------------------------
+Case#146
+semiconductor giant intel corp. said yesterday that its second-quarter profits doubled from a year ago as stronger-than-expected demand for computer microprocessors offset the weakness of its communications chip business.
+intel corp.'s second-quarter profits doubled and revenues grew 8 percent from a year ago as the chip-making giant reported stronger-than-expected demand for personal computer microprocessors.
+ Length of sentence 1 is more than sentence2. Sentence 1 has more info. But only the unigrams are matching in sentence 2.
+
+
+-----------------------------------------------------------------
+Case#168
+the respected medical journal lancet has called for a complete ban on tobacco in the united kingdom.
+a leading u.k. medical journal called friday for a complete ban on tobacco, prompting outrage from smokers' groups.
+
+-----------------------------------------------------------------
+Case#169
+michael hill, a sun reporter who is a member of the washington-baltimore newspaper guild's bargaining committee, estimated meetings to last late sunday.
+"we hope it's symbolic," said michael hill, a sun reporter and member of the guild's bargaining committee.
+
+-----------------------------------------------------------------
+Case#180
+amnesty international has said that over the past 20 years it has collected information about 17,000 disappearances in iraq but the actual figure may be much higher.
+amnesty international said that over the past 20 years it had collected information about 17,000 disappearances in iraq.
+
+-----------------------------------------------------------------
+Case#183
+the bluecore3-multimedia includes a 16-bit stereo audio codec with dual adc and dac for stereo audio.
+bluecore3-multimedia contains an open platform dsp co-processor and also includes a 16-bit stereo audio codec with dual adc and dac for stereo audio.
+
+-----------------------------------------------------------------
+Case#190
+powell recently changed the story, telling officers that hoffa's body was buried at his former home, where the search was conducted wednesday.
+powell changed the story earlier this year, telling officers that hoffa's body was buried at his former home, where the aboveground pool now sits.
+
+-----------------------------------------------------------------
+Case#191
+another said its members would continue to call the more than 50 million phone numbers on the federal trade commission's list.
+meantime, the direct marketing association said its members should not call the nearly 51 million numbers on the list.
+
+-----------------------------------------------------------------
+Case#198
+both studies are published in the journal of the american medical association.
+the study appears in the latest issue of the journal of the american medical association.
+
+-----------------------------------------------------------------
+Case#202
+he and his colleagues attributed some of the communication gap to doctors feeling pressed for time.
+he attributed some of the communication gap to doctors feeling pressed for time; patients cited discomfort discussing financial issues.
+
+-----------------------------------------------------------------
+Case#203
+the three men have pleaded not guilty and their lawyers have asked the high court to dismiss the charges, saying the state has failed to present a solid case.
+defense lawyers asked the high court to dismiss the charges, saying the state has failed to present a solid case.
+
+-----------------------------------------------------------------
+Case#215
+"this is where you're measured – not in the regular season but right now.
+and it's not in the regular season, but right now," babcock said.
+
+-----------------------------------------------------------------
+Case#216
+"i would like the fcc to start all over," said sen. kay bailey hutchison, r-texas, who supported reversing the rules.
+"i would like the fcc to start all over again," said sen. kay bailey hutchison, r-texas, who expressed concern about "potentially dangerous" newspaper-broadcast combinations.
+
+-----------------------------------------------------------------
+Case#220
+"our goals is not to go out and start suing companies," mcbride said.
+as we go down the licensing path, our goal is not to start suing companies," mcbride said.
+
+-----------------------------------------------------------------
+Case#231
+david brame fatally shot his wife and then himself on april 26 in a gig harbor shopping-mall parking lot.
+david brame shot his wife and then himself april 26 in a gig harbor parking lot as their two children sat in his car nearby.
+
+-----------------------------------------------------------------
+Case#239
+republicans had pledged to complete a medicare drug package by august, then extended the deadline to oct. 17, and they are still working on it.
+republicans had pledged to complete a medicare drug package by august, then extended it to oct. 17.
+
+-----------------------------------------------------------------
+Case#244
+this is america, my friends, and it should not happen here," he said to loud applause.
+"this is america, my friends, and it should not happen here."
+
+-----------------------------------------------------------------
+Case#250
+caldera acquired the unix server software of the original sco and changed its name to the sco group.
+sco changed its name to tarantella, and caldera later changed its name to the sco group.
+
+-----------------------------------------------------------------
+Case#252
+results of the 2001 aboriginal peoples survey released yesterday by statistics canada suggest living standards have improved but still lag for those off reserves.
+the 2001 aboriginal peoples survey released wednesday by statistics canada says living standards have improved but still lag for the inuit and those who leave their often impoverished reserves.
+
+-----------------------------------------------------------------
+Case#255
+tennessee titans quarterback steve mcnair apologized thursday for his arrest hours earlier in nashville on suspicion of drunken driving and illegal possession of a handgun.
+tennessee titans quarterback steve mcnair was arrested thursday and charged with drunken driving and possession of a handgun.
+
+-----------------------------------------------------------------
+Case#267
+"i notice a mood change in their priorities," one politician said.
+"i notice a mood change in their priorities," said one iraqi politician after meeting with mr. bremer.
+
+-----------------------------------------------------------------
+Case#280
+yes, from today flash memory purchased from amd or fujitsu will be branded spansion.
+spansion flash memory solutions are available worldwide from amd and fujitsu.
+
+-----------------------------------------------------------------
+Case#281
+her amendment would have changed the bill by keeping with current texas law, which gives school districts the option to hold a moment of silence and recite the pledge.
+the legislation would replace the current texas law, which gives school districts the option of holding a period of silence and reciting the pledge.
+
+-----------------------------------------------------------------
+Case#282
+talabani told him the governing council would "need un assistance and advice in implementing the new decisions which have been taken."
+talabani told him iraqi leaders would "need u.n. assistance and advice in implementing the new decisions which have been taken" on organising an interim iraqi government by june.
+
+-----------------------------------------------------------------
+Case#283
+by state law, 911 calls are not public information and were not released.
+by law, 911 calls are not public information in rhode island.
+
+-----------------------------------------------------------------
+Case#289
+the helicopter burst into flames upon impact, according to the mohave county sheriff's office.
+the helicopter was owned by las vegas-based sundance helicopters inc., according to the sheriff's office.
+
+-----------------------------------------------------------------
+Case#291
+"in so many different ways, the artistry of black musicians has conveyed the experience of black americans throughout our history," bush said.
+surrounded by singers from harlem, bush said: ''the artistry of black musicians has conveyed the experience of black americans throughout our history.
+
+-----------------------------------------------------------------
+Case#297
+"it's very difficult to do large syndicated loans in japan," where there is a lack of expertise, says one banker.
+"it is very difficult to do large syndicated loans in japan," says one banker.
+
+-----------------------------------------------------------------
+Case#304
+analysts had been expecting a net loss of 54 cents a share, according to thomson first call.
+analysts had forecast second quarter sales of $614 million, according to the thomson first call web site.
+
+-----------------------------------------------------------------
+Case#306
+both are being held in the armstrong county jail.
+tatar was being held without bail in armstrong county prison today.
+
+-----------------------------------------------------------------
+Case#321
+the final round of the bee will be broadcast on espn at 1 p.m. thursday.
+at least 80 will make it to thursday's final rounds of competition, which will be broadcast on espn.
+
+-----------------------------------------------------------------
+Case#347
+he was referring to john s. reed, the former citicorp chief executive who became interim chairman and chief executive of the exchange last sunday .
+next week, john s. reed, the former citicorp chief executive who sunday became interim chairman and chief executive of the exchange, will take up his position.
+
+-----------------------------------------------------------------
+Case#351
+but 13 people have been killed since 1900 and hundreds injured.
+runners are often injured by bulls and 13 have been killed since 1900.
+
+-----------------------------------------------------------------
+Case#360
+on tuesday, the central bank left interest rates steady, as expected, but also declared that overall risks were weighted toward weakness and warned of deflation risks.
+the central bank's policy board left rates steady for now, as widely expected, but surprised the market by declaring that overall risks were weighted toward weakness.
+
+-----------------------------------------------------------------
+Case#363
+he said the fda was hoping congress and the courts would bring clarity to the situation and some financial relief to consumers.
+he said fda hopes congress and the courts will bring clarity to the situation and some financial relief to consumers — perhaps before the 2004 elections.
+
+-----------------------------------------------------------------
+Case#365
+navistar shares were down 44 cents, or 1.1 percent, at $41.19 on the new york stock exchange after falling as low as $39.93.
+navistar shares rose a penny to $41.64 at late afternoon on the new york stock exchange after earlier falling as low as $39.93.
+
+-----------------------------------------------------------------
+Case#368
+bremer, 61, is a onetime assistant to former secretaries of state william p. rogers and henry kissinger and was ambassador-at-large for counterterrorism from 1986 to 1989.
+bremer, 61, is a former assistant to former secretaries of state william p. rogers and henry kissinger.
+
+-----------------------------------------------------------------
+Case#372
+"whatever has happened to you by way of punishment is certainly more than enough," covello told the 49-year-old, whose family, friends and supporters filled half the courtroom.
+"what has happened to you, sir, by way of punishment, is certainly more than enough," covello said.
+
+-----------------------------------------------------------------
+Case#373
+eight firefighters also suffered minor injuries, including burns, heat exhaustion, bruises and muscle strain, and were treated and released from the hospital, fire officials said.
+eight firefighters also suffered minor injuries, including burns, heat, bruises and muscle strain, fire officials said.
+
+-----------------------------------------------------------------
+Case#375
+state health officials said today a young northeast kansas woman likely has the state's first case of monkeypox among humans or animals.
+health officials confirmed today that a northeast kansas woman has the state's first case of monkeypox and the first case west of the mississippi river.
+
+-----------------------------------------------------------------
+Case#384
+lowe's, with about half as many stores, reported a 33 percent increase in third-quarter profit behind a 12 percent jump in same-store sales.
+home depot reported a 22 percent jump in third-quarter profit behind a nearly 8 percent rise in same-store sales.
+
+-----------------------------------------------------------------
+Case#386
+part of the accord was the implementation of a special health council that would monitor health spending and progress in reforming the health system.
+a key portion of the accord was the implementation of a special council to monitor health spending, set goals for the system and measure progress in reforming health care.
+
+-----------------------------------------------------------------
+Case#391
+genentech inc., the world's second-biggest biotechnology company, and xoma ltd. said their rapitva drug failed to help patients with rheumatoid arthritis in a study.
+genentech inc., the world's second-largest biotechnology company, and xoma ltd. said they will terminate phase ii testing of their raptiva rheumatoid-arthritis drug after finding no benefit for patients.
+
+-----------------------------------------------------------------
+Case#394
+he had been arrested twice before for trespassing and barred from the complex - home to his mother and two children.
+he had been arrested twice before for trespassing and was barred from the complex.
+
+-----------------------------------------------------------------
+Case#403
+officers threw him to the ground and handcuffed him, and reyna dropped a knee into his back, according to testimony.
+that's when officers threw him to the ground and handcuffed him, according to testimony.
+
+-----------------------------------------------------------------
+Case#408
+today, he will find out whether he is still in the running to buy back the u.s. entertainment business of troubled vivendi universal sa.
+an investment group led by former seagram inc. boss edgar bronfman jr. is still in the running to buy the u.s. entertainment assets of vivendi universal sa.
+
+-----------------------------------------------------------------
+Case#421
+ray brent marsh, 29, faces multiple counts of burial service fraud, making false statements, abuse of a dead body and theft.
+ray brent marsh, 29, also faces charges of abuse of a body, and theft.
+
+-----------------------------------------------------------------
+Case#422
+schroeder cancelled his italian holiday after stefani refused to apologise for the slurs, which came after berlusconi compared a german politician to a nazi concentration camp guard.
+stefani's remarks further stoked tension after italian prime minister silvio berlusconi last week compared a german member of the european parliament to a nazi concentration camp guard.
+
+-----------------------------------------------------------------
+Case#432
+colgate shares closed monday at $56.30 on the new york stock exchange.
+colgate shares were down 30 cents at $56 in morning trade on the new york stock exchange.
+
+-----------------------------------------------------------------
+Case#441
+the monkeys could track their progress by watching a schematic representation of the arm and its motions on a video screen.
+the arm was kept in a separate room, but the monkeys could track their progress by watching a representation of the arm and its motions on a video screen.
+
+-----------------------------------------------------------------
+Case#457
+the victim, whose name was not released, underwent surgery at the hospital.
+the wounded doctor, whose name was withheld, underwent surgery at the hospital for three gunshot wounds.
+
+-----------------------------------------------------------------
+Case#466
+stripping out the extraordinary items, fourth-quarter earnings were 64 cents a share compared to 25 cents a share in the prior year.
+earnings were 59 cents a share for the three months ended may 25 compared with 15 cents a share a year earlier.
+
+-----------------------------------------------------------------
+Case#480
+it will also help reform the royal solomon islands police, strengthen the courts and prisons system and protect key institutions such as the finance ministry from intimidation.
+the intervention force will confiscate weapons, reform the police, strengthen the courts and prison system and protect key institutions such as the finance ministry.
+
+-----------------------------------------------------------------
+Case#496
+the third appointment was to a new job, executive vice president and chief staff officer.
+bruce n. hawthorne, 53, was named executive vice president and chief staff officer.
+
+-----------------------------------------------------------------
+Case#514
+police said the suspected marriott suicide bomber was asmar latin sani, 28, from the island of sumatra.
+a sibling also identified sani, 28, who was from the island of sumatra, police said.
+
+-----------------------------------------------------------------
+Case#519
+every thursday, a grains management committee meets in the commission's agriculture directorate to decide the outcome of a weekly export tender.
+a grains management committee normally meets each thursday in the commission's agriculture unit -- another target of wednesday's raids -- to decide the outcome of a weekly export tender.
+
+-----------------------------------------------------------------
+Case#522
+she was taken by ambulance to charing cross hospital in hammersmith.
+she was taken to charing cross hospital, where she remained critically ill last night.
+
+-----------------------------------------------------------------
+Case#524
+"there is no doubt about the chemical programme, biological programme, indeed nuclear programme, indeed all that was documented by the un," he said.
+he added: "there is no doubt about the chemical programme, the biological programme and indeed the nuclear weapons programme.
+
+-----------------------------------------------------------------
+Case#525
+he said the attackers left behind leaflets urging staff at the ishtar sheraton to stop working at the hotel and demanding u.s. forces leave iraq.
+he said the attackers left behind leaflets urging workers at the ishtar sheraton to stop working at the hotel.
+
+-----------------------------------------------------------------
+Case#533
+mcgill also detailed the hole that had been cut in the caprice's trunk.
+mcgill also said a dark glove was stuffed into a hole that had been cut in the caprice's trunk.
+
+-----------------------------------------------------------------
+Case#542
+numan was the baath party's regional command chairman responsible for west baghdad.
+al-numan was a longtime member of the regional command of the baath party.
+
+-----------------------------------------------------------------
+Case#554
+elecia battle, of cleveland, told police she dropped her purse as she left the quick shop food mart last week after buying the ticket.
+elecia battle dropped her purse after buying the mega millions lottery ticket last week and believes the ticket blew away.
+
+-----------------------------------------------------------------
+Case#556
+the senate agreed tuesday to lift a 10-year-old ban on the research and development of low-yield nuclear weapons.
+both the house and senate bills would end the ban on research and development of low-yield nuclear weapons.
+
+-----------------------------------------------------------------
+Case#563
+the nikkei average closed up 1.5 percent at 8,152.16, a one-month high.
+the nikkei average ended the morning up half a percent at 8,071.00.
+
+-----------------------------------------------------------------
+Case#565
+the company said it would cut the wholesale price of most top-line cds to $9.09 from $12.02.
+the company also said it would cut wholesale prices on cassettes and change the suggested retail price to $8.98.
+
+-----------------------------------------------------------------
+Case#570
+perkins will travel to lawrence today and meet with kansas chancellor robert hemenway.
+perkins and kansas chancellor robert hemenway declined comment sunday night.
+
+-----------------------------------------------------------------
+Case#572
+three southern politicians who ``stood up to ancient hatreds'' were honored monday with profile in courage awards from the john f. kennedy library and museum.
+barnes is one of three politicians honored monday by the john f. kennedy library and museum with the profile in courage award.
+
+-----------------------------------------------------------------
+Case#577
+a senior whitehall official said: "it devalued the currency, there is no question about that.
+a senior whitehall official said recently: "it devalued the currency, there is no question about that . . . it was a monumental cock-up."
+
+-----------------------------------------------------------------
+Case#578
+"the recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead."
+the recent turnaround in the stock market and an easing in unemployment claims "may signal more favorable economic times ahead," she said.
+
+-----------------------------------------------------------------
+Case#580
+the army said the raid, which comes just days after israeli troops shot and killed abdullah kawasme, the hamas leader in the city, targeted militants in hamas.
+the arrests came just days after israeli troops shot and killed abdullah kawasme, the militant group's leader in hebron.
+
+-----------------------------------------------------------------
+Case#584
+in march, sco group filed a lawsuit against ibm charging unfair competition and breach of contract.
+sco is suing ibm for misappropriation of trade secrets, tortious interference, unfair competition and breach of contract.
+
+-----------------------------------------------------------------
+Case#595
+the dodgers won their sixth consecutive game their longest win streak since 2001 as they edged colorado, 3-2, wednesday in front of a crowd of 25,332 at dodger stadium.
+the dodgers won their sixth consecutive game and seventh in their last nine as they beat colorado 3-2 on wednesday in front of a crowd of 25,332 at dodger stadium.
+
+-----------------------------------------------------------------
+Case#597
+mr pollard said: "this is a terrible personal tragedy and a shocking blow for james's family.
+nick pollard, the head of sky news said: "this is a shocking blow for james's family.
+
+-----------------------------------------------------------------
+Case#602
+he was taken to a hospital for precautionary x-rays on his neck.
+harvey was taken to st. luke's hospital for precautionary neck x-rays, which came back negative.
+
+-----------------------------------------------------------------
+Case#613
+the two-year note us2yt=rr fell 5/32 in price, taking its yield to 1.23 percent from 1.16 percent late on monday.
+the benchmark 10-year note us10yt=rr lost 11/32 in price, taking its yield to 3.21 percent from 3.17 percent late on monday.
+
+-----------------------------------------------------------------
+Case#624
+texas instruments climbed $1.37 to $19.25 yesterday and novellus systems inc. advanced $1.76 to $36.31.
+texas instruments climbed $us1.37 to $us19.25 and novellus systems advanced $us1.76 to $us36.31, each having been raised to "overweight" by lehman.
+
+-----------------------------------------------------------------
+Case#628
+yee is a chinese-american who converted to islam after graduating from the u.s. military academy at west point.
+yee is a 1990 graduate of the u.s. military academy at west point, new york.
+
+-----------------------------------------------------------------
+Case#633
+linda saunders pleaded guilty in federal court to six charges, including extortion, money laundering and conspiracy.
+former phipps aides linda saunders and bobby mclamb have both pleaded guilty to federal charges including extortion.
+
+-----------------------------------------------------------------
+Case#637
+anything less is unacceptable," said gordon, the ranking democrat on the house space and aeronautics subcommittee.
+gordon is the senior democrat on the house subcommittee on space and aeronautics.
+
+-----------------------------------------------------------------
+Case#644
+spokesmen for the fbi, cia, canadian security intelligence service and royal canadian mounted police declined to comment on el shukrijumah's stay in canada.
+the fbi, cia, canadian security intelligence service and royal canadian mounted police declined to comment on the washington times report.
+
+-----------------------------------------------------------------
+Case#650
+dr. anthony fauci, director of the national institute of allergy and infectious diseases, agreed.
+"we have been somewhat lucky," said dr. anthony fauci, director of the national institute of allergy and infectious diseases.
+
+-----------------------------------------------------------------
+Case#652
+since early may, the city has received 1,400 reports of dead blue jays and crows, jayroe said.
+since early may, the city has received 1,400 reports, he said.
+
+-----------------------------------------------------------------
+Case#654
+the mother also alleged in the lawsuit that she was sexually assaulted by one of the guards.
+the mother also contended that she was sexually assaulted by one of the guards during the 1998 confrontation.
+
+-----------------------------------------------------------------
+Case#681
+west nile virus -- which is spread through infected mosquitoes -- is potentially fatal.
+west nile is a bird virus that is spread to people by mosquitoes.
+
+-----------------------------------------------------------------
+Case#693
+russian stocks fell after the arrest last saturday of mikhail khodorkovsky, chief executive of yukos oil, on charges of fraud and tax evasion.
+the weekend arrest of russia's richest man, mikhail khodorkovsky, chief executive of oil major yukos, on charges of fraud and tax evasion unnerved financial markets.
+
+-----------------------------------------------------------------
+Case#698
+critics say the law violates civil liberties, something house judiciary committee chairman james sensenbrenner, r-wis., says he is sensitive to.
+house judiciary committee chairman james sensenbrenner, r-wis., says he is sensitive to civil liberties complaints.
+
+-----------------------------------------------------------------
+Case#708
+the bishop told police he thought he had hit a dog or a cat or that someone had thrown a rock at his vehicle.
+bishop o'brien, aged 67, had told police he thought he had hit a dog or cat.
+
+-----------------------------------------------------------------
+Case#709
+joe kernan, who had been lieutenant governor for the past seven years, was sworn in as governor after o'bannon died saturday.
+kernan, who was o'bannon's lieutenant governor, friend and political partner, was sworn in six hours after o'bannon died saturday.
+
+-----------------------------------------------------------------
+Case#710
+the fines are part of failed republican efforts to force or entice the democrats to return.
+perry said he backs the senate's efforts, including the fines, to force the democrats to return.
+
+-----------------------------------------------------------------
+Case#721
+"it is safe to assume the senate is prepared to pass some form of cap," king said.
+its safe to assume the senate is prepared to pass some form of a cap....the level of it is to be debated.
+
+-----------------------------------------------------------------
+Case#722
+the report forecasts there will be 71,079 hot spots worldwide this year, up from just 14,752 in 2002 and 1,214 in 2001.
+the report also claims that there will be up to 9.3 million visitors to hot spots this year, up again from the meagre 2.5 million in 2002.
+
+-----------------------------------------------------------------
+Case#723
+but other sources close to the sale said vivendi was keeping the door open to further bids and hoped to see bidders interested in individual assets team up.
+but other sources close to the sale said vivendi was keeping the door open for further bids in the next day or two.
+
+-----------------------------------------------------------------
+Case#727
+others keep records sealed for as little as five years or as much as 30.
+some states make them available immediately; others keep them sealed for as much as 30 years.
+
+-----------------------------------------------------------------
+Case#731
+young has 28 days to file a response and ask the nasd for a hearing.
+under nasd regulations, mr. young can file a response and request a hearing before an nasd panel.
+
+-----------------------------------------------------------------
+Case#733
+"our strong preference is to achieve a financial restructuring out of court, and we remain hopeful we can do so," chief executive marce fuller said.
+"our strong preference is to achieve a financial restructuring out of court," mirant ceo marce fuller said in a prepared statement early friday.
+
+-----------------------------------------------------------------
+Case#734
+however, in the new jersey case, a panel of the u.s. court of appeals for the 3rd circuit upheld the government by a 2-1 vote.
+though a federal judge in new jersey agreed, a panel of the u.s. court of appeals for the 3rd circuit disagreed.
+
+-----------------------------------------------------------------
+Case#739
+the security official's backup couldn't fill in because he was on active military duty, strutt said.
+the security official's backup was on active duty, and the lottery association didn't have a replacement in new jersey, strutt said.
+
+-----------------------------------------------------------------
+Case#745
+other countries and private creditors are owed at least $80 billion in addition.
+other countries are owed at least $us80 billion ($108.52 billion).
+
+-----------------------------------------------------------------
+Case#796
+intel corp. narrowed its second-quarter revenue forecast thursday, saying sales of microprocessors were at the high end of normal while demand for communications chips remained soft.
+intel corp., the world's biggest semiconductor maker, narrowed its second-quarter sales forecast as demand for microprocessors is reaching the high end of the company's expectations.
+
+-----------------------------------------------------------------
+Case#803
+im very proud of the citizens of this state, said gov. john baldacci, a casino foe.
+"i´m very proud of the citizens of this state," gov. john baldacci said after votes from tuesday´s referendum were counted.
+
+-----------------------------------------------------------------
+Case#808
+"enron company executives engaged in widespread and pervasive fraud," prosecutor samuel buell told the associated press.
+"enron company executives engaged in widespread and pervasive fraud to manipulate the company's earnings results," buell said.
+
+-----------------------------------------------------------------
+Case#812
+dusty had battled kidney cancer for more than a year.
+dusty had surgery for cancer in 2001 and had a kidney removed.
+
+-----------------------------------------------------------------
+Case#814
+he presented the map at last week's sixth international conference on mars in pasadena, calif.
+feldman presented the most recent findings and the new map friday at the sixth international conference on mars in pasadena, calif.
+
+-----------------------------------------------------------------
+Case#815
+"this is an easy case in my view and wholly without merit, both factually and legally."
+"this case is wholly without merit, both factually and legally," judge denny chin scoffed.
+
+-----------------------------------------------------------------
+Case#817
+the injured passenger at john peter smith hospital died later friday morning, jones said.
+the injured passenger at john peter smith died later in the morning; his name has not been released, jones said.
+
+-----------------------------------------------------------------
+Case#823
+no. 2 hp saw its unix server sales dropped 3.6 percent to $1.36 billion.
+hp fell to second place with server sales growing 0.4 percent to $2.9 billion.
+
+-----------------------------------------------------------------
+Case#828
+quinn was assigned to the 2nd squadron, 3rd armor cavalry regiment.
+quinn was assigned to the 3rd armored cavalry regiment, based in fort carson, colo.
+
+-----------------------------------------------------------------
+Case#830
+the magazine glorifies the soldiers but not necessarily the bush administration, which put them in iraq.
+the magazine glorifies soldiers but not the bush administration for putting them in iraq, calling troops the bright sharp instrument of a blunt policy.
+
+-----------------------------------------------------------------
+Case#833
+state democratic chairman herman farrell, who is also chairman of the state assembly's ways and means committee, seemed perfectly happy to make it a political fight.
+state democratic chairman herman farrell, who is also chairman of the assembly's ways and means committee, supports the legislature's budget plan.
+
+-----------------------------------------------------------------
+Case#837
+ubs warburg added to pressure on tobacco stocks by downgrading altria to neutral from buy based on valuation.
+ubs warburg downgraded altria, a dow member, to "neutral" from "buy," based on valuation.
+
+-----------------------------------------------------------------
+Case#851
+captain robert ramsey of the us 1st armoured division said a truck had exploded outside the building about 11am, and that one of the compound's outer walls had collapsed.
+captain robert ramsey of us 1st armored division said a truck had exploded outside the building at around 11 am.
+
+-----------------------------------------------------------------
+Case#856
+benchmark treasury 10-year notes gained 17/32, yielding 4.015 percent.
+the benchmark 10-year note was recently down 17/32, to yield 4.067 percent.
+
+-----------------------------------------------------------------
+Case#857
+nationwide, there have been 4,416 cases with 84 deaths, according to the u.s. centers for disease control and prevention's friday tally.
+this year there have been 4,416 confirmed cases of west nile virus nationwide with 20 in missouri, according to the centers for disease control.
+
+-----------------------------------------------------------------
+Case#860
+"there are a number of locations in our community, which are essentially vulnerable," mr ruddock said.
+"there are a range of risks which are being seriously examined by competent authorities," mr ruddock said.
+
+-----------------------------------------------------------------
+Case#866
+penn traffic's stock closed at 36 cents per share on wednesday on nasdaq, up two cents.
+penn traffic stock closed wednesday at 36 cents, up 2 cents, or 6.2 percent, from tuesday's close.
+
+-----------------------------------------------------------------
+Case#869
+rusch has also allowed five or more earned runs in each of his last three starts.
+redman has allowed two earned runs or less in six of his nine starts.
+
+-----------------------------------------------------------------
+Case#870
+lacy's last column, filed from the hospital, appeared in friday's editions.
+lacy's last column appeared in friday's edition of the afro.
+
+-----------------------------------------------------------------
+Case#874
+parsons holds engineering degrees from the university of mississippi and the university of central florida.
+he received a master's in engineering management in 1991 from the university of central florida.
+
+-----------------------------------------------------------------
+Case#882
+the witness, a 27-year-old kosovan parking attendant with criminal convictions for dishonesty, was paid 10,000 by the news of the world.
+the witness was a 27-year-old kosovan parking attendant, who was paid by the news of the world, the court heard.
+
+-----------------------------------------------------------------
+Case#896
+prosecutors did an about-face in may and asked that the autopsy reports be unsealed after portions of conner peterson's autopsy report favorable to the defense were leaked to the media.
+they asked that the autopsy reports be unsealed after portions of the autopsy report on peterson's unborn son that were favorable to the defense were leaked to the media.
+
+-----------------------------------------------------------------
+Case#900
+with diplomacy heating up in the nearly 10-month-old nuclear crisis, chinese foreign minister li zhaoxing is slated to visit south korea from august 13 to 15.
+with diplomacy heating up in the nearly 10-month-old crisis, chinese foreign minister li zhaoxing flies to japan on sunday en route to south korea on august 13.
+
+-----------------------------------------------------------------
+Case#901
+so far, they have searched pennsylvania, ohio, michigan, illinois and indiana, authorities in those state said.
+so far, authorities also have searched areas in pennsylvania, ohio, indiana, and michigan.
+
+-----------------------------------------------------------------
+Case#902
+besides battling its sales slump, siebel also has been sparring with some investors upset about huge stock option windfalls company managers have pocketed.
+besides a sales slump, siebel is sparring with some shareholders over management stock option windfalls.
+
+-----------------------------------------------------------------
+Case#904
+pascal lamy, the eu’s trade commissioner, insisted: “the eu’s regulatory system for gm goods authorisation is in line with wto rules.
+"the eu regulatory system for gm authorisation is in line with wto rules: it is clear, transparent and non-discriminatory.
+
+-----------------------------------------------------------------
+Case#909
+bond bulls would like the fed to recognize that risks are biased toward economic weakness.
+the fed also said the risks to the economy were biased toward weakness.
+
+-----------------------------------------------------------------
+Case#910
+in recent years, hampton kept in touch with friends and stayed in trouble: he faced charges of fare-beating and credit card theft.
+in recent years, mr. hampton continued to run into trouble, facing charges of fare-beating and credit-card theft.
+
+-----------------------------------------------------------------
+Case#912
+the women said those rape victims who did come forward were routinely punished for minor infractions while their assailants escaped judgement, prompting most victims to remain silent.
+the women said victims of rape who came forward routinely were punished for minor infractions while their assailants escaped judgment.
+
+-----------------------------------------------------------------
+Case#928
+treasuries were dragged lower on friday as shorter-dated debt was roiled by conflicting reports on the likelihood of an aggressive easing in u.s. interest rates.
+treasury prices slouched lower on friday as conflicting messages on the prospects of an aggressive cut in u.s. interest rates left some investors nursing losses and a grudge.
+
+-----------------------------------------------------------------
+Case#930
+"what can i say to you?" he told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families.
+mr. powell told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families.
+
+-----------------------------------------------------------------
+Case#937
+aventis, based in strasbourg, france, is one of a handful of companies that still make the flu vaccine.
+aventis, based in strasbourg, france, is one of the leading producers of the vaccine and one of a handful of companies that still make it.
+
+-----------------------------------------------------------------
+Case#948
+the blue-chip dow jones industrial average .dji climbed 164 points, or 1.91 percent, to 8,765.38, brushing its highest levels since mid-january.
+the blue-chip dow jones industrial average .dji tacked on 97 points, or 1.14 percent, to 8,699.
+
+-----------------------------------------------------------------
+Case#953
+"we are expending all available resources toward the investigation," said assistant u.s. attorney todd greenberg, a counterterrorism prosecutor in seattle.
+"we are aware of the situation," said assistant us attorney todd greenberg, a counter-terrorism prosecutor in seattle.
+
+-----------------------------------------------------------------
+Case#958
+she was 26 then, and a friend tipped her to another position and told her whom to call.
+westermayer was 26 then, and a friend and former manager who knew she was unhappy in her job tipped her to another position.
+
+-----------------------------------------------------------------
+Case#959
+if successful, the "muses-c" will be the first probe to make a two-way trip to an asteroid.
+if successful, it will be the first to bring back a rock sample from an asteroid, kawaguchi said.
+
+-----------------------------------------------------------------
+Case#964
+i never punished a victim,'' said brigadier general taco gilbert, the school's former number two officer.
+i never blamed a victim, i never punished a victim,'' said brig. gen. taco gilbert, the school's former no. 2 officer.
+
+-----------------------------------------------------------------
+Case#968
+while waiting for a bomb squad to arrive, the bomb exploded, killing wells.
+the bomb exploded while authorities waited for a bomb squad to arrive.
+
+-----------------------------------------------------------------
+Case#979
+the valid signatures of 897,158 registered california voters must be collected and turned in to county election officials by sept. 2.
+to force a recall election of davis, the valid signatures of 897,158 registered california voters must be turned in to election officials.
+
+-----------------------------------------------------------------
+Case#980
+but forest, the freedom organisation for the right to enjoy smoking tobacco, said: ''mention the word prohibition and everyone knows what happened there.
+forest, the freedom organisation for the right to enjoy smoking tobacco, said it had greeted the lancet's call with "amusement and disbelief'".
+
+-----------------------------------------------------------------
+Case#987
+hilsenrath was also indicted on 33 counts of wire fraud, which each carry a maximum penalty of five years in prison, a $250,000 fine and restitution.
+each of those counts carries a maximum penalty of five years in prison and a $250,000 fine plus restitution.
+
+-----------------------------------------------------------------
+Case#1003
+the boy also sprayed the room full of retardant from fire extinguishers, which made it hard to see, the chief said.
+the boy fired once into a wall and sprayed the room with fire extinguishers, making it hard to see, the chief said.
+
+-----------------------------------------------------------------
+Case#1006
+the u.s. capitol was evacuated yesterday after authorities detected a possibly hazardous material in the basement of the senate wing, capitol police said.
+u.s. capitol police evacuated the capitol yesterday after a sensor detected a possible biohazard in the senate wing, but authorities later said it was a false alarm.
+
+-----------------------------------------------------------------
+Case#1011
+the commission dropped charges that patton improperly appointed conner to the kentucky lottery board and that he improperly appointed conner's then-husband, seth, to the agriculture development board.
+patton also appointed conner to the kentucky lottery board and appointed seth conner to the agriculture development board, the commission says.
+
+-----------------------------------------------------------------
+Case#1019
+reuters witnesses said many houses had been flattened and the city squares were packed with crying children and the homeless, huddled in blankets to protect them from the cold.
+reuters witnesses said public squares were packed with crying children and people left homeless, huddled in blankets to protect them from the cold.
+
+-----------------------------------------------------------------
+Case#1031
+china's health ministry said five more people had died of sars and a further 159 were infected.
+on monday, china said nine more people had died from sars and that 160 more were infected with the virus.
+
+-----------------------------------------------------------------
+Case#1032
+"the figures are becoming catastrophic," said dr. patrick pelloux, the president of the association of emergency room physicians.
+this is unacceptable," said patrick pelloux, the president of france's association of emergency doctors.
+
+-----------------------------------------------------------------
+Case#1035
+russin did not comment; his lawyer did not attend the hearing and did not return phone messages.
+his lawyer, a cousin, basil russin, did not attend the hearing and did not return phone messages.
+
+-----------------------------------------------------------------
+Case#1041
+kodak said the practiceworks deal is expected to add about $215 million to its revenue in the first full year after the acquisition.
+the practiceworks acquisition is expected to add about $215 million to kodak's revenue in the first full year, be slightly dilutive through 2005, and accretive thereafter.
+
+-----------------------------------------------------------------
+Case#1042
+he also said the academy will get its own internal report next week detailing the seriousness of the remaining problem.
+the academy will get its own internal report next week and it will be made public, rosa said.
+
+-----------------------------------------------------------------
+Case#1044
+international rescue workers are scouring flattened debris for survivors in iran's shattered ancient silk road city of bam after a violent earthquake killed more than 20,000 people.
+international rescue workers hacked desperately through flattened debris for survivors and cemeteries overflowed in iran's ancient silk road city of bam yesterday.
+
+-----------------------------------------------------------------
+Case#1046
+shares of allergan fell 14 cents to close at $78.12 on the new york stock exchange (news - web sites).
+shares of allergan were up 14 cents at $78.40 in late trading on the new york stock exchange.
+
+-----------------------------------------------------------------
+Case#1062
+he wounded a security guard and then fled, stabbing two passersby as he ran off along the promenade.
+he then stabbed two passersby as he fled along a promenade by the mediterranean sea.
+
+-----------------------------------------------------------------
+Case#1063
+police believe wilson shot reynolds, then her mother once in the head before fatally turning the gun on herself.
+police believe wilson then shot jennie mae robinson once in the head before turning the gun on herself.
+
+-----------------------------------------------------------------
+Case#1068
+the government did not identify the taikonauts — a term coined from ‘‘taikong,’’ the chinese word for space — who would travel on the second mission.
+the government did not identify the taikonauts -- a term coined from taikong, the chinese word for space.
+
+-----------------------------------------------------------------
+Case#1082
+according to security sources, london metropolitan police commissioner john stevens placed his force on its highest state of alert last week following the warning.
+the telegraph can reveal that sir john stevens, the metropolitan police commissioner, placed his force on its highest alert last week.
+
+-----------------------------------------------------------------
+Case#1094
+the biggest cut ordered was for hanover lloyds insurance co. -- 31 percent.
+the department ordered hanover insurance to cut its rates by 31 percent.
+
+-----------------------------------------------------------------
+Case#1115
+it is priced at $5,995 for an unlimited number of users tapping into the single processor, or $195 per user with a minimum of five users.
+it is priced at $5,995 or $195 on a per user licensing plan with a minimum of five users.
+
+-----------------------------------------------------------------
+Case#1121
+associated press writer marc humbert in albany contributed to this report.
+associated press writer carolyn thompson contributed to this report from buffalo.
+
+-----------------------------------------------------------------
+Case#1132
+the cgt warned of prolonged industrial action unless raffarin agreed.
+the large cgt union warned france of lengthy industrial action.
+
+-----------------------------------------------------------------
+Case#1138
+but they don’t realize that until it’s too late (of course) because they’re potential victims in a horror movie.
+but they don't realize that until it's too late (of course) because they're potential victims.
+
+-----------------------------------------------------------------
+Case#1142
+the three grocery chains were relying on store managers and replacement workers to keep their stores open.
+the supermarket chains have used managers and replacement workers to keep their stores open, often at reduced hours.
+
+-----------------------------------------------------------------
+Case#1148
+the indictment said he attended important meetings to plan the attacks, recruited fellow bombers and coordinated the operation.
+samudra not present in bangkok, the indictment said, but attended a series of meetings before the attacks, recruiting fellow bombers and coordinating the operation.
+
+-----------------------------------------------------------------
+Case#1150
+the two democrats on the five-member fcc panel held a news conference to sway opinion against powell.
+the two democrats on the five-member fcc held a news conference to sway opinion against powell and the panel's two other republicans.
+
+-----------------------------------------------------------------
+Case#1152
+lurd's ja'neh also called for an interim government and the deployment of a u.s.-led western peacekeeping force.
+the rebels are also calling for the deployment of a u.s.-led peacekeeping force.
+
+-----------------------------------------------------------------
+Case#1155
+eric gagne earned his 17th save in as many opportunities as he struck out three in the ninth and allowed only an infield single by greg norton.
+closer eric gagne earned his 17th save in as many opportunities as he struck out three of the four batters he faced in the ninth.
+
+-----------------------------------------------------------------
+Case#1156
+the jury awarded tvt about $23 million in compensatory damages and roughly $108 million in punitive damages.
+tvt records sought $360 million in punitive damages and $30 million in compensatory damages, officials said.
+
+-----------------------------------------------------------------
+Case#1160
+families stuck on the highway remained in their cars, and used their cell phones to call home.
+families stuck on the highway were being urged to remain in their cars, and to use their cell phones only in case of emergency.
+
+-----------------------------------------------------------------
+Case#1168
+argentine guillermo coria and netherlander martin verkerk are in the other half.
+the other semifinal between guillermo coria of argentina and martin verkerk of the netherlands is also compelling.
+
+-----------------------------------------------------------------
+Case#1170
+hovan did not speak, but his lawyer, john speranza, said his client "did not wake up that day" intending to hurt anyone.
+hovan "did not wake up that day" intending to hurt anyone, defense attorney john speranza said.
+
+-----------------------------------------------------------------
+Case#1173
+the house voted 425 to 2 to clear the bill, the first of 13 that congress must pass each year to fund the federal government.
+the bill is among the first of 13 that congress must pass each year to fund the federal government.
+
+-----------------------------------------------------------------
+Case#1179
+the highest-paid washington private-college president is susan resneck pierce, who heads the university of puget sound.
+the highest-paid private-college president in washington is university of puget sound president susan resneck pierce at $314,160, the chronicle said.
+
+-----------------------------------------------------------------
+Case#1182
+the 30-year bond us30yt=rr firmed 31/32, taking its yield to 4.16 percent -- another record low -- from 4.22 percent.
+the 30-year bond <us30yt=rr> firmed 24/32, taking its yield to 4.18 percent, after hitting another record low of 4.16 percent.
+
+-----------------------------------------------------------------
+Case#1194
+on may 1, he crawled through a narrow, winding canyon, rappelled down a 60-foot cliff and walked some six miles down the canyon.
+he crawled through a narrow, winding canyon, rappelled down a 60-foot cliff, and walked some six miles down the canyon near canyonlands national park in southeastern utah.
+
+-----------------------------------------------------------------
+Case#1202
+fletcher said he expects to have the support of lawmakers from agricultural states, many of whom are on the committee.
+he said he also expects to have the support of lawmakers from other agricultural states.
+
+-----------------------------------------------------------------
+Case#1206
+several protesters were injured by a speeding police van that drove through the crowd.
+anger grew after a police van injured several protesters by speeding through the crowd.
+
+-----------------------------------------------------------------
+Case#1211
+in a mixture of ancient pagan and modern christian rites, the villagers have staged a series of ceremonies hoping to erase the misfortunes they believe have kept them poor.
+in a mixture of ancient melanesian pagan and modern christian ceremonies the people tried again to erase the misfortunes they believe have kept them poor since that long-ago meal.
+
+-----------------------------------------------------------------
+Case#1212
+"we put a lot of effort and energy into improving our patching process, probably later than we should have and now we're just gaining incredible speed.
+"we've put a lot of effort and energy into improving our patching progress, probably later than we should have.
+
+-----------------------------------------------------------------
+Case#1218
+before it was removed, the site listed in broken english the rules for hackers who might participate.
+organizers established a web site, http://defacerschallenge.com, listing in broken english the rules for hackers who might participate.
+
+-----------------------------------------------------------------
+Case#1223
+on thursday, a washington post article argued that a 50 basis point cut from the fed was more likely, contrary to the wall street journal's line.
+on thursday, a post article argued that a 50 basis point cut from the fed was more likely.
+
+-----------------------------------------------------------------
+Case#1237
+if it's a bill gates comdex keynote, it must be time for new tablet pcs.
+if it's the sunday night before comdex, it must be time for yet another bill gates keynote.
+
+-----------------------------------------------------------------
+Case#1240
+is it in the food supply?" says david ropeik, director of risk communication at the harvard center for risk analysis.
+"it's not zero," said david ropeik, director of risk communication at the harvard center for risk analysis.
+
+-----------------------------------------------------------------
+Case#1249
+that took the benchmark 10-year note us10yt=rr down 9/32, its yield rising to 3.37 percent from 3.34 percent late on thursday.
+that saw the benchmark 10-year note us10yt=rr slip 5/32 in price, taking its yield to 3.36 percent from 3.34 percent late on thursday.
+
+-----------------------------------------------------------------
+Case#1250
+the index, which measures activity in the service sector, climbed to 50.7 last month from 47.9 in march.
+the arizona-based ism reported monday that its non-manufacturing index rose to 50.7 last month, from 47.9 in march.
+
+-----------------------------------------------------------------
+Case#1262
+dell's openmanage software includes dell update packages with sms to help automate the management of server hardware, applications and operating systems patches with a single tool.
+the update packages help "automate the management of server hardware, applications and operating systems patches using one tool," which is unpleasantly vague.
+
+-----------------------------------------------------------------
+Case#1265
+the conference, sponsored by the u.s. department of agriculture, is focused on eliminating world hunger through genetically modified foods and other technologies.
+the conference was sponsored by the u.s. department of agriculture to discuss ways to end world hunger and poverty.
+
+-----------------------------------------------------------------
+Case#1267
+during the hearing, morales expressed "sincere regrets and remorse" for his actions.
+morales, who pleaded guilty in july, expressed "sincere regret and remorse" for his crimes.
+
+-----------------------------------------------------------------
+Case#1274
+the benchmark 10-year note us10yt=rr lost 11/32 in price, taking its yield to 3.21 percent from 3.17 percent late on monday.
+further out the curve, the benchmark 10-year note us10yt=rr shed 18/32 in price, taking its yield to 3.24 percent from 3.17 percent.
+
+-----------------------------------------------------------------
+Case#1294
+prof sally baldwin, 63, from york, fell into a cavity which opened up when the structure collapsed at tiburtina station, italian railway officials said.
+sally baldwin, from york, was killed instantly when a walkway collapsed and she fell into the machinery at tiburtina station.
+
+-----------------------------------------------------------------
+Case#1295
+box cutters were used as a weapon by the sept. 11, 2001, hijackers and have since been banned as carry-on items.
+box cutters were the weapons used by the 19 hijackers in the sept. 11, 2001, attacks.
+
+-----------------------------------------------------------------
+Case#1308
+"the integration is exceeding almost every expectation we set for ourselves," mr roberts said on thursday.
+it's manageable, and the integration is exceeding "almost every expectation we set for ourselves."
+
+-----------------------------------------------------------------
+Case#1310
+chante jawan mallard, 27, went on trial monday, charged with first-degree murder.
+chante jawaon mallard, 27, is charged with murder and tampering with evidence.
+
+-----------------------------------------------------------------
+Case#1321
+get it all out," says howard davidowitz, chairman of davidowitz & associates, a national retail consulting firm based in new york city.
+innocent or not, "she's damaged goods," said howard davidowitz, chairman of davidowitz & associates, a national retail consulting firm in new york.
+
+-----------------------------------------------------------------
+Case#1334
+shortly after the opening bell, the dow jones industrial average was up 11.13 to 9,228.48, while the s&p 500 index gained 1.74 to 982.33.
+after a weak start, the dow jones industrial average ended the day up 26.26 to 9,217.35, while the s&p 500 index rose 3 to 980.59.
+
+-----------------------------------------------------------------
+Case#1345
+a federal grand jury indicted them on tuesday; the document was sealed until yesterday to allow authorities to make arrests.
+federal officials said the document remained sealed until thursday morning to allow authorities to make arrests in five western states.
+
+-----------------------------------------------------------------
+Case#1352
+the commission estimates california lost $1.34 billion -- the most of any state -- to tax shelters in 2001.
+the commission estimated california lost $937 million to corporate tax shelters in 2001.
+
+-----------------------------------------------------------------
+Case#1357
+a spokeswoman at strong memorial hospital said doud was in satisfactory condition tuesday night.
+a spokesman at strong memorial hospital said doud was under evaluation tuesday evening in the emergency room.
+
+-----------------------------------------------------------------
+Case#1361
+there's a jeep in my parents' yard right now that's not theirs,'' said perry, whose parents are vacationing in north carolina.
+"there's a jeep in my parents' yard right now that's not theirs," she said.
+
+-----------------------------------------------------------------
+Case#1371
+the new analysis found that 32 of the 16,608 participants developed ovarian cancer during about 5 years of follow-up.
+the new analysis found that 32 of 16,608 participants developed ovarian cancer in about 5 1/2 years of follow-up, including 20 women taking hormones.
+
+-----------------------------------------------------------------
+Case#1373
+of 24 million phoned-in votes, 50.28 percent were for studdard, putting him 130,000 votes ahead of aiken.
+of the 24 million phone votes cast, studdard was only 130,000 votes ahead of aiken.
+
+-----------------------------------------------------------------
+Case#1374
+thirty-three of the 42 men had been arrested by wednesday evening, said daniel bogden, u.s. attorney in nevada.
+thirty-four of the men have been arrested and the others are being sought, us attorney daniel bogden said yesterday.
+
+-----------------------------------------------------------------
+Case#1375
+hispanics, the fastest growing ethnic group in the us, have overtaken blacks to become the largest minority in the us, according to newly released government figures.
+hispanics have officially overtaken african americans as the largest minority group in the us, according to a report released by the us census bureau.
+
+-----------------------------------------------------------------
+Case#1379
+the university of louisville also is auditing shumaker's expenses while he was president there.
+shumaker was the president of the university of louisville when he was hired by ut.
+
+-----------------------------------------------------------------
+Case#1382
+delmon was 5 when dmitri was drafted with the fourth pick by st. louis in 1991.
+dmitri young was the fourth overall selection by st. louis in the 1991 draft.
+
+-----------------------------------------------------------------
+Case#1383
+"tomorrow at the mission inn, i have the opportunity to congratulate the governor-elect of the great state of california.
+"i have the opportunity to congratulate the governor-elect of the great state of california, and i'm looking forward to it."
+
+-----------------------------------------------------------------
+Case#1390
+on monday, lynch was awarded the bronze star, purple heart and prisoner of war medals at walter reed army medical center in washington.
+lynch, who returns to the hills of west virigina tuesday, also received the purple heart and prisoner of war medals at walter reed army medical center in washington.
+
+-----------------------------------------------------------------
+Case#1392
+they found that 18 percent of the men who took finasteride, or 803 men, developed prostate cancer.
+about 24 percent of men who took the placebo, or 1,147 men, developed prostate cancer.
+
+-----------------------------------------------------------------
+Case#1417
+complicating the situation is the presence of battle-hardened liberians who have been fighting on both sides.
+fighting has continued sporadically in the west, where it is complicated by the presence of battle-hardened liberians on both sides.
+
+-----------------------------------------------------------------
+Case#1449
+opponents of the ban also are planning a protest rally at city hall tomorrow at 1 p.m. to coincide with the scheduled start of the state ban.
+in new york city, opponents of the ban are planning a protest rally at city hall thursday at 1 p.m.
+
+-----------------------------------------------------------------
+Case#1451
+he fought for laws that kept his daughter segregated and in an inferior position.
+sen. thurmond "never acknowledged his daughter and fought for laws that kept his daughter segregated.
+
+-----------------------------------------------------------------
+Case#1456
+police using pepper spray arrested 12 people monday night at a march and rally by about 400 activists protesting an annual training seminar of the law enforcement intelligence unit.
+police used pepper spray and rubber bullets to disperse a downtown march and rally last night by activists protesting an annual police intelligence-training seminar.
+
+-----------------------------------------------------------------
+Case#1458
+swartz, indicted in february, had argued that new hampshire was the wrong place to charge him.
+swartz had sought to have the charges dismissed, saying new hampshire was the wrong place to charge him.
+
+-----------------------------------------------------------------
+Case#1464
+gyorgy heizler, head of the local disaster unit, said the coach had been carrying 38 passengers.
+the head of the local disaster unit, gyorgy heizler, said the coach driver had failed to heed red stop lights.
+
+-----------------------------------------------------------------
+Case#1465
+a chinese court yesterday jailed two people for life and imprisoned 12 others for organising a sex party involving hundreds of japanese tourists.
+a court in southern china yesterday jailed two people for life for organising a three-day sexual romp with hundreds of prostitutes by visiting employees of a japanese company.
+
+-----------------------------------------------------------------
+Case#1479
+the bodies of some of the dead, pulled out from under the train, were laid out beside the tracks while emergency services brought in wooden coffins.
+the bodies of many of the dead, pulled from under the partially derailed train, were laid out by the tracks awaiting identification.
+
+-----------------------------------------------------------------
+Case#1480
+"i had no direct interest and craxi begged me to intervene because he believed the operation damaged the state," he told a packed courtroom during a 45-minute address.
+"i had no direct interest, and craxi begged me to intervene because he believed that the operation damaged the state," mr. berlusconi said.
+
+-----------------------------------------------------------------
+Case#1483
+besides hampton and newport news, the grant funds water testing in yorktown, king george county, norfolk and virginia beach.
+the grant also funds beach testing in king george county, norfolk and virginia beach.
+
+-----------------------------------------------------------------
+Case#1485
+however, we have decided to opt for the european consortium's engine as the best overall solution and due to the substantial price efforts made".
+however, we have decided to opt for the european consortium's engine as the best overall solution."
+
+-----------------------------------------------------------------
+Case#1488
+on tuesday, the nikkei average dropped 107.08 points, or 1.3 percent, to close at 8,120.24.
+the nikkei average closed up 42.56 points, or half a percent, at 8,227.32.
+
+-----------------------------------------------------------------
+Case#1492
+the drop in core wholesale prices in april reflected falling prices for cars, trucks, men's and boy's clothes and cigarettes.
+that was the biggest drop since august 1993 and stemmed from falling prices for cars, trucks, men's and boys' clothes and cigarettes.
+
+-----------------------------------------------------------------
+Case#1509
+added mr. prodi: "maybe, but the old age helps us to understand our strengths and our weakness."
+"maybe, but the old age helps us to understand our strength and our weakness and the reality of the world.
+
+-----------------------------------------------------------------
+Case#1519
+dynes came to uc san diego in 1991 after 22 years as a physicist with at&t bell labs.
+dynes has been at uc san diego since 1991 after spending 22 years with at&t bell labs, where he worked on superconductors and other materials.
+
+-----------------------------------------------------------------
+Case#1523
+the military said it had killed 12 rebels and captured nine in the campaign so far, for the loss of six soldiers wounded.
+the military said it had killed 16 rebels and captured nine in the campaign so far, with one soldier killed and six wounded.
+
+-----------------------------------------------------------------
+Case#1525
+officials are trying to retrieve the bodies from the water," police officer j.d. tambe told reuters, adding 26 of the dead were women.
+officials are trying to retrieve the bodies from the water," police official j.d. tambe told reuters.
+
+-----------------------------------------------------------------
+Case#1535
+duque arrived with foale and kaleri but will return to earth with lu and malenchenko.
+duque will return with lu and russia's yuri malenchenko when they leave the station next week.
+
+-----------------------------------------------------------------
+Case#1538
+the blaze then spread to several surrounding structures on the property and destroyed them.
+the fire spread to several surrounding structures on the property and destroyed them as deputies held back firefighters.
+
+-----------------------------------------------------------------
+Case#1547
+air canada, the largest airline in canada and no. 11 in the world, has been under court protection from creditors since april 1.
+the no. 11 airline in the world, air canada has been under court protection from creditors since april 1.
+
+-----------------------------------------------------------------
+Case#1551
+he urged congress to "send me the final bill as soon as possible so that i can sign it into law."
+"i urge congress to quickly resolve any differences and send me the final bill as soon as possible so that i can sign it into law," he said.
+
+-----------------------------------------------------------------
+Case#1568
+german prosecutors have ruled out any charges in germany, meaning extradition "could happen very soon," ullrich said.
+studabaker told the court he would not contest extradition and german prosecutors have ruled out any charges here, meaning extradition "could happen very soon," ullrich said.
+
+-----------------------------------------------------------------
+Case#1569
+the trial is entering a crucial stage as italy prepares to assume the rotating presidency of the european union on july 1.
+the prime minister is poised to take over the rotating presidency of the european union on july 1.
+
+-----------------------------------------------------------------
+Case#1588
+nbc will probably end the season as the second most popular network behind cbs, although it's first among the key 18-to-49-year-old demographic.
+nbc will probably end the season as the second most-popular network behind cbs, which is first among the key 18-to-49-year-old demographic.
+
+-----------------------------------------------------------------
+Case#1600
+the currency briefly weakened slightly on monday to trade at 55.34/39, not far from its record low of 55.75.
+the currency briefly weakened on monday morning but rebounded to trade at 55.25/29, little changed from friday.
+
+-----------------------------------------------------------------
+Case#1605
+this year the audubon society once again hosts its annual christmas bird count.
+it's the national audubon society's annual christmas bird count, now in its 104th season.
+
+-----------------------------------------------------------------
+Case#1606
+shiites make up 20 percent of the country's population.
+sunnis make up 77 percent of pakistan's population, shiites 20 percent.
+
+-----------------------------------------------------------------
+Case#1607
+dotson told fbi agents that he shot dennehy after the player tried to shoot him, according to the arrest warrant affidavit.
+dotson was arrested july 21 after telling fbi agents he shot dennehy when dennehy tried to shoot him, according to the arrest warrant affidavit.
+
+-----------------------------------------------------------------
+Case#1609
+the final price will be the lower of a 5 per cent discount to the average trading price over the period or $5.50, the institutional placement price.
+the final price will be a 5 per cent discount to the volume-weighted average of trading between june 23 and july 11.
+
+-----------------------------------------------------------------
+Case#1617
+it seemed like an isolated incident," said ariel dean of washington d.c., who earned a degree in political science.
+it seemed like an isolated incident,'' said graduate ariel dean of washington, d.c.
+
+-----------------------------------------------------------------
+Case#1621
+"people are obviously inconvenienced," said dr. jim young, ontario's commissioner of public safety.
+"we're being hyper-vigilant," said dr. james young, ontario's commissioner of public safety.
+
+-----------------------------------------------------------------
+Case#1636
+davey graduated saturday from northwest college, which is affiliated with the assemblies of god, with a bachelor of arts degree in religion and philosophy.
+davey started attending northwest college, which is affiliated with the assemblies of god, in 1999 with plans to become a minister.
+
+-----------------------------------------------------------------
+Case#1637
+the pressure may well rise on thursday, with national coverage of the final round planned by espn, the cable sports network.
+the pressure will intensify today, with national coverage of the final round planned by espn and words that are even more difficult.
+
+-----------------------------------------------------------------
+Case#1640
+"it is the only vehicle on which established economies will be able to compete," barrett said.
+"it is the only vehicle on which established economies will be able to compete" with fast-growing economies such as china and india, barrett said.
+
+-----------------------------------------------------------------
+Case#1658
+several thousand 3rd infantry troops, including the 3rd brigade combat team based at fort benning in columbus, began returning last week.
+a few thousand troops, most from the division's 3rd brigade combat team based at fort benning in columbus, began returning last week, with flights continuing through friday.
+
+-----------------------------------------------------------------
+Case#1663
+people who once thought their blood pressure was fine actually may be well on their way to hypertension under new u.s. guidelines published on wednesday.
+people who once thought their blood pressure was fine actually need to start exercising and eating better, according to new u.s. guidelines published on wednesday.
+
+-----------------------------------------------------------------
+Case#1664
+a 32-count indictment "strikes at one of the very top targets in the drug trafficking world," u.s. attorney marcos jimenez said.
+the newly unsealed 32-count indictment alleges money laundering and conspiracy and "strikes at one of the very top targets in the drug-trafficking world," jiménez said.
+
+-----------------------------------------------------------------
+Case#1670
+kroger co., which owns ralphs, and albertsons inc. bargain jointly with safeway and locked out their union workers the next day.
+in a show of corporate solidarity, kroger co., which owns ralphs, and albertson inc. locked out their workers the next morning.
+
+-----------------------------------------------------------------
+Case#1673
+suvs parked on residential streets in monrovia were tagged with "elf" and other slogans, and another was set ablaze in front of a house, sgt. tom wright said.
+several suvs parked on residential streets in monrovia were tagged with ``elf'' and other slogans, said sgt. tom wright.
+
+-----------------------------------------------------------------
+Case#1681
+entrenched interests are positioning themselves to control the network's chokepoints and they are lobbying the fcc to aid and abet them.
+it may be dying because entrenched interests are positioning themselves to control the internet's choke-points and they are lobbying the fcc to aid and abet them."
+
+-----------------------------------------------------------------
+Case#1684
+southwest said its traffic was up 4.6 percent in the quarter, and it ended the quarter with $2.2 billion in cash.
+southwest said its traffic was up 4.6 percent in the quarter on a capacity increase of 4.2 percent.
+
+-----------------------------------------------------------------
+Case#1702
+yahoo accounts for 159,354 of the bsd sites, with 152,054 from ntt/verio and 129,378 from infospace, the survey found.
+another 152,054 are from ip services company ntt/verio, and 129,378 from infospace, the survey found.
+
+-----------------------------------------------------------------
+Case#1710
+bush turned out a statement yesterday thanking the commission for its work, and said, "our journey into space will go on."
+mr. bush did not discuss this when he issued a brief statement yesterday thanking the commission for its work, and saying, "our journey into space will go on."
+
+-----------------------------------------------------------------
+Case#1716
+several states and the federal government later passed similar or more strict bans.
+following california's lead, several states and the federal government passed similar or tougher bans.
+
+-----------------------------------------------------------------
+Case#1718
+after freitas' opening statement, king county superior court judge charles mertel recessed trial until after the thanksgiving weekend.
+king county superior court judge charles mertel will then recess the trial until monday.
+
+-----------------------------------------------------------------
+Case#1734
+crews worked to install a new culvert and prepare the highway so motorists could use the eastbound lanes for travel as storm clouds threatened to dump more rain.
+crews worked to install a new culvert and repave the highway so motorists could use the eastbound lanes for travel.
+
+-----------------------------------------------------------------
+Case#1738
+bethany hamilton remained in stable condition saturday after the attack friday morning.
+bethany, who remained in stable condition after the attack friday morning, talked of the attack saturday.
+
+-----------------------------------------------------------------
+

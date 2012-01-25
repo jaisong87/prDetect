@@ -1,0 +1,188 @@
+----------------------Paraphrases with unigramMatch <= 0.33 -----------------------
+Line#1 (0.230769):powell fired back: "he's accusing the president of a ludicrous act," he said 
+Line#2 (0.230769):if so, powell said, he's calling the president ludicrous, too 
+################################################################################################
+Line#1 (0.307692):"this deal makes sense for both companies," halla said in a prepared statement 
+Line#2 (0.307692):brian halla, ceo of natsemi, claimed the deal made sense for both companies 
+################################################################################################
+Line#1 (0.25):some 14,000 customers were without power in the area, oklahoma gas and electric said 
+Line#2 (0.25):about 38,000 oge energy corp  customers are without power, the company said on its web site 
+################################################################################################
+Line#1 (0.3):peoplesoft also said its board had officially rejected oracle's offer 
+Line#2 (0.3):thursday morning, peoplesoft's board rejected the oracle takeover offer 
+################################################################################################
+Line#1 (0.315789):emeryville-based ask jeeves agreed to sell a business software division to a sunnyvale-based rival, kanisa, for $4 25 million 
+Line#2 (0.368421):ask jeeves wednesday announced it plans to sell its enterprise software division, jeeves solutions, to kanisa 
+################################################################################################
+Line#1 (0.294118):the broad standard   poor's 500 index < spx> lost 6 points, or 0 71 percent, to 927 
+Line#2 (0.294118):the broad standard   poors 500-stock index was down 4 77 points to 929 62 
+################################################################################################
+Line#1 (0.3125):it is a national concern that will touch virtually every american," abraham said 
+Line#2 (0.3125):the impact of natural-gas shortages "will touch virtually every american," energy secretary spencer abraham warned yesterday 
+################################################################################################
+Line#1 (0.294118):now, nearly two years later, mallard prepares for trial on charges of murder and tampering with evidence 
+Line#2 (0.352941):chante jawaon mallard, 27, is charged with murder and tampering with evidence 
+################################################################################################
+Line#1 (0.3125):"the woman was taken to new charing cross hospital by ambulance and her condition is critical 
+Line#2 (0.3125):she was taken to charing cross hospital, where she remained critically ill last night 
+################################################################################################
+Line#1 (0.25):he also accused royal courtiers of poisoning the brothers’ “little minds” 
+Line#2 (0.333333):he said the royal family has poisoned the princes' "little minds "
+################################################################################################
+Line#1 (0.272727):jordan green, the prelate's private lawyer, said he had no comment 
+Line#2 (0.272727):o'brien's attorney, jordan green, declined to comment 
+################################################################################################
+Line#1 (0.315789):two of the britons, sandy mitchell from glasgow and glasgow-born william sampson, face the death penalty 
+Line#2 (0.315789):sandy mitchell, 44, from kirkintilloch, glasgow, and william sampson, a british citizen born in glasgow, face beheading in public 
+################################################################################################
+Line#1 (0.285714):during a period of nearly a decade, telemarketing associates raised more than $7 million 
+Line#2 (0.285714):telemarketing associates, hired by vietnow, raised $7 1 million from 1987 to 1995 
+################################################################################################
+Line#1 (0.3):illinois state police accident reconstruction experts were investigating the cause 
+Line#2 (0.3):state police were investigating, vazzi said 
+################################################################################################
+Line#1 (0.235294):roslyn shares gained 82 cents to close at $20 79 yesterday in nasdaq trading 
+Line#2 (0.235294):in recent dealings, shares of roslyn were up 40 cents, or 1 9 percent, to $21 25 
+################################################################################################
+Line#1 (0.3125):tsmc also accused syndia of trying to interfere with its customer relationships 
+Line#2 (0.3125):tsmc feels that syndia's actions are designed to interfere with tsmc's customer relationships, the company said 
+################################################################################################
+Line#1 (0.272727):"it''s absurd," funny cide's trainer barclay tagg said 
+Line#2 (0.272727):meanwhile, funny cide's trainer, barclay tagg, called the allegations "ridiculous "
+################################################################################################
+Line#1 (0.272727):quattrone's action, prosecutors argue, amounted to criminal obstruction of justice 
+Line#2 (0.272727):quattrone, 47, is charged with obstruction of justice and witness tampering 
+################################################################################################
+Line#1 (0.315789):sovereign's shares lost 74 cents, or 4 5%, to $15 68 
+Line#2 (0.315789):sovereign shares closed on the new york stock exchange at $15 68, down 74 cents, or 4 5 percent 
+################################################################################################
+Line#1 (0.32):on monday, the dow declined 5 25, or 0 1 percent, at 8,983 80, having shed 2 3 percent last week 
+Line#2 (0.32):in early trading, the dow jones industrial average was down 39 94, or 0 4 percent, at 8,945 50, having slipped 3 61 points monday 
+################################################################################################
+Line#1 (0.318182):freddie mac shares were down more than 16 per cent at $50 18 at midday yesterday 
+Line#2 (0.272727):freddie mac shares were off $7 87, or 13 2 percent, at $52 in midday trading on the new york stock exchange 
+################################################################################################
+Line#1 (0.3):mr  rollins made $721,154 in salary and $243,389 in bonuses in the prior fiscal year 
+Line#2 (0.25):kevin rollins, dell's president, received $770,962 in salary and a bonus of just more than $2 million in fiscal 2003 
+################################################################################################
+Line#1 (0.272727):thus far, stewart's company appears ready to stand behind her 
+Line#2 (0.272727):for now, the company's management appears to be standing behind stewart 
+################################################################################################
+Line#1 (0.210526):aspen technology's shares dropped 74 cents, or 23 percent, to close at $2 48 on the nasdaq 
+Line#2 (0.210526):in afternoon trading, aspen's shares were off 89 cents or more than 27 percent at $2 33 per share 
+################################################################################################
+Line#1 (0.3):earlier thursday, peoplesoft formally rejected the unsolicited bid from oracle 
+Line#2 (0.3):thursday morning, peoplesoft's board rejected the oracle takeover offer 
+################################################################################################
+Line#1 (0.315789):two astronomers surveying the region around jupiter have detected 20 new moons, bringing the giant planet's total to 60 
+Line#2 (0.315789):astronomers have clocked eight more moons orbiting jupiter, bringing its known total to 60 
+################################################################################################
+Line#1 (0.304348):the broad standard   poor's 500 index  spx was up 8 79 points, or 0 96 percent, at 929 06 
+Line#2 (0.304348):the standard   poor's 500 index gained 10 89, or 1 2 percent, to 931 12 as of 12:01 p m  in new york 
+################################################################################################
+Line#1 (0.285714):under mexican law, bounty hunting is considered a form of kidnapping 
+Line#2 (0.357143):bounty hunting is illegal in mexico, and the bounty hunter was charged with kidnapping 
+################################################################################################
+Line#1 (0.315789):kevin rollins, dell's president, received $770,962 in salary and a bonus of just more than $2-million in fiscal 2003 
+Line#2 (0.315789):dell made $950,000 in salary and nearly $2 5 million in bonus pay during the fiscal year 
+################################################################################################
+Line#1 (0.3):tisha kresler, a spokeswoman for global crossing, declined to comment 
+Line#2 (0.3):a global crossing representative had no immediate comment 
+################################################################################################
+Line#1 (0.266667):he could get six to seven years in prison, plus fines 
+Line#2 (0.333333):the charges carry up to 25 years in prison and $1 25 million in fines 
+################################################################################################
+Line#1 (0.266667):sutherland is the 65-year-old computing pioneer who co-founded evans   sutherland, which made high-performance graphics computers 
+Line#2 (0.333333):sutherland, 65, was a co-founder of evans   sutherland, an early maker of high-performance computers 
+################################################################################################
+Line#1 (0.307692):median household income declined 1 1 percent between 2001 and 2002 to $42,409 
+Line#2 (0.307692):the median household earned income fell $500 over the same period to $42,400 
+################################################################################################
+Line#1 (0.461538):microsoft presented several options at the meeting, the consortium said in the statement 
+Line#2 (0.307692):microsoft officials presented "several options" it is considering, the w3c posting said 
+################################################################################################
+Line#1 (0.166667):bofa said yesterday it had "policies in place that prohibit late-day trading" 
+Line#2 (0.166667):bank of america says its policies prohibit late-day trading, which is illegal 
+################################################################################################
+Line#1 (0.307692):analysts have estimated the worth of the core properties at $10 billion-$15 billion 
+Line#2 (0.307692):analysts have estimated that vivendi uni could fetch $12 billion-$14 billion for vue 
+################################################################################################
+Line#1 (0.153846):he told the jury stubbs is a "cold, calculating killer "
+Line#2 (0.153846):district attorney dave lupas reminded jurors that stubbs is, "a cold, calculating killer" 
+################################################################################################
+Line#1 (0.307692):cmdr  rod gibbons, an academy spokesman, said, "the academy is shocked and saddened 
+Line#2 (0.230769):naval academy spokesman cmdr  rod gibbons said: ``today's announcement came as a surprise 
+################################################################################################
+Line#1 (0.3125):"this is, i think, a very seminal moment in our agency's history," mr o'keefe said 
+Line#2 (0.3125):"i think we are at a seminal moment in the history of this agency," he said 
+################################################################################################
+Line#1 (0.181818):"imagine that in someone's fucking brain," klebold said 
+Line#2 (0.181818):imagine, one said, what a bullet would do in someone's brain 
+################################################################################################
+Line#1 (0.307692):instead, tickets for the jersey jam went on sale last night through ticketmaster 
+Line#2 (0.307692):tickets, available through ticketmaster, went on sale yesterday 
+################################################################################################
+Line#1 (0.285714):nvidia shares lost 58 cents  u s   or 3 46 per cent to $16 20 yesterday on the nasdaq stock market 
+Line#2 (0.285714):nvidia's stock fell 65 cents, or almost 4 percent, to $16 13 on nasdaq 
+################################################################################################
+Line#1 (0.3125):shares of salix have rocketed 64 percent since axcan made its first offer on april 10 
+Line#2 (0.3125):since the initial takeover offer, salix shares have risen about 35 percent 
+################################################################################################
+Line#1 (0.25):he also worked in the virginia attorney general's office 
+Line#2 (0.25):before that he held various posts in virginia, including deputy attorney general 
+################################################################################################
+Line#1 (0.210526):amgen shares gained 93 cents, or 1 45 percent, to $65 05 in afternoon trading on nasdaq 
+Line#2 (0.210526):shares of allergan were up 14 cents at $78 40 in late trading on the new york stock exchange 
+################################################################################################
+Line#1 (0.3125):the new york mets then selected outfielder lastings milledge from lakewood ranch high school in florida 
+Line#2 (0.375):the mets took lastings milledge, an outfielder from florida, with the 12th pick 
+################################################################################################
+Line#1 (0.5):four versions of windows operating systems are targeted: windows nt, windows 2000, windows xp and windows server 2003 
+Line#2 (0.277778):the new worm affects these windows systems: 2000, xp, nt 4 0 and server 2003 
+################################################################################################
+Line#1 (0.181818):the prime minister, junichiro koizumi, joined the criticism 
+Line#2 (0.181818):prime minister junichiro koizumi said mr ota deserved to be criticised 
+################################################################################################
+Line#1 (0.315789):the standard   poor's 500 stock index pulled back by nearly 4 points to 1,066 62 
+Line#2 (0.315789):the broad standard   poor's 500 index < spx> fell 0 70 points, or 0 07 percent, to 1,069 42 
+################################################################################################
+Line#1 (0.307692):the technology is available for download on the microsoft developer network  msdn  site 
+Line#2 (0.307692):wse version 2 is available from microsoft's developer web site 
+################################################################################################
+Line#1 (0.3125):australia,chile, colombia, el salvador, honduras, mexico, new zealand, peru and uruguay will also support the challenge 
+Line#2 (0.3125):nine other countries, including australia, chile, colombia, el salvador and mexico, are supporting the case 
+################################################################################################
+Line#1 (0.266667):the leading actress nod went to energetic newcomer marissa jaret winokur as edna's daughter tracy 
+Line#2 (0.266667):marissa jaret winokur, as tracy, won for best actress in a musical 
+################################################################################################
+Line#1 (0.222222):"the economy, nonetheless, has yet to exhibit sustainable growth 
+Line#2 (0.222222):but the economy hasn't shown signs of sustainable growth 
+################################################################################################
+Line#1 (0.3125):researchers found the fossils in a semidesert area of venezuela, about 250 miles west of caracas 
+Line#2 (0.25):phoberomys' skeleton was unearthed 250 miles west of caracas, venezuela 
+################################################################################################
+Line#1 (0.315789):his family and friends said he had travelled to the region for a cultural visit 
+Line#2 (0.368421):family and friends of the west belfast man insist he was in the west bank on a "cultural visit" 
+################################################################################################
+Line#1 (0.285714):"it is wasting both water and money," ortega said tuesday 
+Line#2 (0.285714):"it's a waste of water and money," said adan ortega, a metropolitan vice president 
+################################################################################################
+Line#1 (0.333333):dr  sutherland, 65, was a co-founder of evans   sutherland, an early maker of high-performance computers 
+Line#2 (0.266667):sutherland is the 65-year-old computing pioneer who co-founded evans   sutherland, which made high-performance graphics computers 
+################################################################################################
+Line#1 (0.285714):doctors had planned to deliver him two weeks early, on or around november 14 
+Line#2 (0.285714):a caesarean had originally been planned in mid- november, two weeks early 
+################################################################################################
+Line#1 (0.166667):a spokesman said: "since november, we have co-operated fully with the police 
+Line#2 (0.166667):it added it had "co-operated fully" with police since november 
+################################################################################################
+Line#1 (0.230769):british airways' new york-to-london runs will end in october 
+Line#2 (0.230769):british airways plans to retire its seven concordes at the end of october 
+################################################################################################
+Line#1 (0.3):on thursday, long heard arguments from both sides 
+Line#2 (0.3):judge elizabeth long heard arguments in the state case thursday 
+################################################################################################
+Line#1 (0.3):remaining shares will be held by qvc's management 
+Line#2 (0.3):members of the qvc management team hold the remaining shares 
+################################################################################################
+There are 62 cases 

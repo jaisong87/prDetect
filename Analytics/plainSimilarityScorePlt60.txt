@@ -1,0 +1,463 @@
+Line#1 (0.759402): prosecutors filed a motion informing lee they intend to seek the death penalty.
+Line#2 (0.569231): he added that prosecutors will seek the death penalty.
+------------------------------------------------------------------
+Line#1 (0.598501): tuition at four-year private colleges averaged $19,710 this year, up 6 percent from 2002.
+Line#2 (0.747024): for the current academic year, tuition at public colleges averaged $4,694, up almost $600 from the year before.
+------------------------------------------------------------------
+Line#1 (0.753846): powell fired back: "he's accusing the president of a ludicrous act," he said.
+Line#2 (0.565751): if so, powell said, he's calling the president ludicrous, too.
+------------------------------------------------------------------
+Line#1 (0.802513): shares of microsoft rose 50 cents friday to close at $28.34 a share on the nasdaq stock market.
+Line#2 (0.558418): microsoft's stock was up 50 cents, to $28.34 a share in new york yesterday.
+------------------------------------------------------------------
+Line#1 (0.77586): the statistical analysis was published tuesday in circulation, a journal of the american heart association  news - web sites .
+Line#2 (0.590417): their findings were published monday in circulation: the journal of the american heart association.
+------------------------------------------------------------------
+Line#1 (0.479916): about 120 potential jurors were being asked to complete a lengthy questionnaire.
+Line#2 (0.746296): the jurors were taken into the courtroom in groups of 40 and asked to fill out a questionnaire.
+------------------------------------------------------------------
+Line#1 (0.531863): singer brandy and her husband, robert smith, have called it quits.
+Line#2 (0.782353): brandy and husband splitr'n'b star brandy and robert smith, her husband of two years have split up.
+------------------------------------------------------------------
+Line#1 (0.642708): only intel corp. has a lower dividend yield.
+Line#2 (0.583333): only intel's 0.3 percent yield is lower.
+------------------------------------------------------------------
+Line#1 (0.516138): at community colleges, tuition will jump to $2,800 from $2,500.
+Line#2 (0.687778): community college students will see their tuition rise by $300 to $2,800 or 12 percent.
+------------------------------------------------------------------
+Line#1 (0.8425): gen. sattler heads a combined joint task force based on ship in the gulf of aden and the indian ocean.
+Line#2 (0.580893): general sattler heads a combined joint task force aboard the command ship mount whitney.
+------------------------------------------------------------------
+Line#1 (0.598765): the telephone survey had a margin of error of 2 percentage points.
+Line#2 (0.829586): the poll conducted between oct. 24 and nov. 2 had a margin of error of 2 percentage points.
+------------------------------------------------------------------
+Line#1 (0.73408): sco has also alleged that the generic linux kernel contains code which is from its unix property.
+Line#2 (0.586275): sco claims that the linux kernel holds unix intellectual property owned by sco.
+------------------------------------------------------------------
+Line#1 (0.591176): crossing jordan will be back in january after star jill hennessy gives birth.
+Line#2 (0.67549): nbc also plans to shelve crossing jordan until january as star jill hennessy has her first child.
+------------------------------------------------------------------
+Line#1 (0.566269): about 1,000 people attended the ceremony, kicking off two days of observances tied to the march on washington.
+Line#2 (0.818344): about 1,000 people came in stifling heat to begin two days of observances tied to the coming 40th anniversary of the march on washington on aug. 28, 1963.
+------------------------------------------------------------------
+Line#1 (0.568027): the program will grow to include ports in dubai, turkey and malaysia, among others.
+Line#2 (0.756746): the program will be expanded to include areas of the middle east such as dubai, turkey and malaysia, mr. ridge said.
+------------------------------------------------------------------
+Line#1 (0.760095): she said jane doe's lawyers asked verizon to withhold her name because she was planning on challenging the subpoena.
+Line#2 (0.596784): jane doe, deciding to fight the subpoena, asked verizon to withhold her name.
+------------------------------------------------------------------
+Line#1 (0.818897): a few hours later, the house voted 256 to 170 to pass the healthy forest restoration act sponsored by rep. scott mcinnis, r-colo.
+Line#2 (0.588509): the house voted 256-170 on tuesday to approve the bill sponsored by rep. scott mcinnis, r-colo.
+------------------------------------------------------------------
+Line#1 (0.559184): helicopters hovered over al-khalidiya into the early hours of sunday.
+Line#2 (0.79881): helicopters hovered throughout the day over the al-khalidiya neighborhood where the raid took place.
+------------------------------------------------------------------
+Line#1 (0.59248): we need a certifiable pay as you go budget by mid-july or schools wont open in september, strayhorn said.
+Line#2 (0.712469): texas lawmakers must close a $185.9 million budget gap by the middle of july or the schools wont open in september, comptroller carole keeton strayhorn said thursday.
+------------------------------------------------------------------
+Line#1 (0.574311): the nikkei average ended trading down 1.83 percent at 10,310.04, a four-week low.
+Line#2 (0.666667): the nikkei average .n225 was down 1.83 percent or 192.25 points at 10,310.04, its lowest close since august 28.
+------------------------------------------------------------------
+Line#1 (0.704832): now, nearly two years later, mallard prepares for trial on charges of murder and tampering with evidence.
+Line#2 (0.562675): chante jawaon mallard, 27, is charged with murder and tampering with evidence.
+------------------------------------------------------------------
+Line#1 (0.815185): u.s. corporate bond yield spreads tightened in spotty trading on friday as wall street labored to get back on its feet after the largest power outage ever in north america.
+Line#2 (0.56917): u.s. stocks rose slightly on feather-light volume on friday, as wall street regrouped after the biggest-ever power outage in north america.
+------------------------------------------------------------------
+Line#1 (0.519608): overall, 83 percent of women washed up, compared with 74 percent of men.
+Line#2 (0.639216): but in san francisco, 80 percent of men and only 59 percent of women washed their hands.
+------------------------------------------------------------------
+Line#1 (0.581481): hannum was five and a half months pregnant when her mother died.
+Line#2 (0.668783): in her testimony, kate hannum said she was 5 1 2 months pregnant when her mother was killed.
+------------------------------------------------------------------
+Line#1 (0.721561): but senate criticism of the house plan tuesday came on several fronts.
+Line#2 (0.573359): and several senate republicans are cranky about the house map.
+------------------------------------------------------------------
+Line#1 (0.618326): jordan green, the prelate's private lawyer, said he had no comment.
+Line#2 (0.42298): o'brien's attorney, jordan green, declined to comment.
+------------------------------------------------------------------
+Line#1 (0.793793): during a period of nearly a decade, telemarketing associates raised more than $7 million.
+Line#2 (0.523864): telemarketing associates, hired by vietnow, raised $7.1 million from 1987 to 1995.
+------------------------------------------------------------------
+Line#1 (0.572917): at his request, he will be reassigned within the district.
+Line#2 (0.653621): district superintendent j. chester floyd told reporters monday that mccrackin will be reassigned within the district.
+------------------------------------------------------------------
+Line#1 (0.536111): "overwhelmingly the windows brand really resonated with them."
+Line#2 (0.734722): "windows was the part of the experience that really resonated with people."
+------------------------------------------------------------------
+Line#1 (0.588287): sens. john kerry and bob graham declined invitations to speak.
+Line#2 (0.678008): the no-shows were sens. john kerry of massachusetts and bob graham of florida.
+------------------------------------------------------------------
+Line#1 (0.646429): illinois state police accident reconstruction experts were investigating the cause.
+Line#2 (0.512857): state police were investigating, vazzi said.
+------------------------------------------------------------------
+Line#1 (0.556777): the comment period was to have expired on monday.
+Line#2 (0.729487): a public comment period on the proposed new taxes will end on monday.
+------------------------------------------------------------------
+Line#1 (0.727302): the cradle of liberty council isn't the first one to buck the national group's stance.
+Line#2 (0.587302): philadelphia's council is not the first to defy the national policy.
+------------------------------------------------------------------
+Line#1 (0.599432): he added: ``i've never heard of more reprehensiblebehaviour by a doctor.
+Line#2 (0.788244): the harrisons’ lawyer paul licalsi said: “i’ve never heard of more reprehensible behaviour by a doctor.
+------------------------------------------------------------------
+Line#1 (0.594444): kelly boggs' column will appear daily during the june 17-18 southern baptist convention annual meeting in phoenix.
+Line#2 (0.83006): kelly boggs, baptist press' weekly columnist, will be writing a column each day during the southern baptist convention's annual meeting this week in phoenix.
+------------------------------------------------------------------
+Line#1 (0.572917): a judge ordered the child placed in state custody aug. 8.
+Line#2 (0.68125): on aug. 8, juvenile court judge robert yeates ordered that parker be placed in protective custody.
+------------------------------------------------------------------
+Line#1 (0.563704): roslyn shares gained 82 cents to close at $20.79 yesterday in nasdaq trading.
+Line#2 (0.635979): in recent dealings, shares of roslyn were up 40 cents, or 1.9 percent, to $21.25.
+------------------------------------------------------------------
+Line#1 (0.628571): the broader standard   poor's 500 index .spx gained 3 points, or 0.39 percent, at 924.
+Line#2 (0.570899): the technology-laced nasdaq composite index <.ixic> rose 6 points, or 0.41 percent, to 1,498.
+------------------------------------------------------------------
+Line#1 (0.554422): he said it was a mistake, and he reimbursed the party nearly $2,000.
+Line#2 (0.763095): the governor said the use of the credit card was a mistake, and has since reimbursed the party for the expense.
+------------------------------------------------------------------
+Line#1 (0.578571): the bluetooth sig made its announcement at the bluetooth world congress in amsterdam this week.
+Line#2 (0.751182): a new version of the bluetooth specification was officially launched today at the start of the bluetooth world congress in amsterdam.
+------------------------------------------------------------------
+Line#1 (0.775641): with a wry smile, mr. bush replied, "you're looking pretty young these days."
+Line#2 (0.592308): bush shot back: "you're looking pretty young these days."
+------------------------------------------------------------------
+Line#1 (0.55873): at least 27 us troops have been killed in hostile fire since bush's statement.
+Line#2 (0.700397): at least 26 american troops have been killed in hostile fire since major combat was officially declared over on may 1.
+------------------------------------------------------------------
+Line#1 (0.765402): the stock closed friday at $5.91, down $1.24, or 17 percent, on the nasdaq stock market.
+Line#2 (0.550223): shares of brocade closed at $5.91, down $1.24, or 17.3 percent.
+------------------------------------------------------------------
+Line#1 (0.57395): police believe someone strangled her and she may have been sexually assaulted.
+Line#2 (0.757563): park appeared to have been strangled and may have been sexually assaulted, homicide capt. charles bloom said.
+------------------------------------------------------------------
+Line#1 (0.712299): the hot technologies -- networking, storage and wireless products -- will be front and center this week.
+Line#2 (0.54232): storage, networking and wireless products will be prevalent at the show.
+------------------------------------------------------------------
+Line#1 (0.598693): seiu president andrew stern said the unions are "totally comfortable" with dean's positions.
+Line#2 (0.776611): in his speech, stern says his members are "totally comfortable" with dean's positions on health care issues.
+------------------------------------------------------------------
+Line#1 (0.769312): the dow jones industrial average .dji ended up 64.64 points, or 0.71 percent, at 9,191.09, according to the latest available data.
+Line#2 (0.57619): the blue-chip dow jones industrial average .dji added 38 points, or 0.42 percent, to 9,165.
+------------------------------------------------------------------
+Line#1 (0.472078): sovereign's shares lost 74 cents, or 4.5%, to $15.68.
+Line#2 (0.713655): sovereign shares closed on the new york stock exchange at $15.68, down 74 cents, or 4.5 percent.
+------------------------------------------------------------------
+Line#1 (0.590686): the a920 comes with a printer, scanner, and copier for $89.
+Line#2 (0.686631): dell's personal all-in-one a920 is an entry-level device that combines printer, scanner and copier functions for $89.
+------------------------------------------------------------------
+Line#1 (0.582456): malaysia has launched an aggressive media campaign over its water dispute with singapore.
+Line#2 (0.743609): malaysia will launch a publicity campaign in local newspapers today giving its version of the water dispute with singapore.
+------------------------------------------------------------------
+Line#1 (0.536364): the two rugged counties got 2 to 3 inches of rain between midnight and noon.
+Line#2 (0.780519): the weather service estimated that between two and three inches of rain hit kanawha and nicholas counties between midnight and noon monday.
+------------------------------------------------------------------
+Line#1 (0.770588): the fawn, named after dr duane kraemer, one of the researchers, was born a few months ago.
+Line#2 (0.531373): the fawn, named for university researcher duane kraemer, turns 7 months old today.
+------------------------------------------------------------------
+Line#1 (0.478332): the nasdaq fell about 1.3% for the month, snapping a seven-month winning streak.
+Line#2 (0.755138): the nasdaq is down roughly 0.4 percent for the month, on track to snap a 7-month streak of gains.
+------------------------------------------------------------------
+Line#1 (0.699263): matthew lovett, 18, who just graduated from collingswood high school, was among those arrested.
+Line#2 (0.580612): matthew lovett, 18, of oaklyn, n.j., was among those arrested.
+------------------------------------------------------------------
+Line#1 (0.559347): almihdhar and alhazmi were aboard american airlines flight 77, which crashed into the pentagon.
+Line#2 (0.738889): both have been identified as some of the hijackers who flew american airlines flight 77 into the pentagon.
+------------------------------------------------------------------
+Line#1 (0.577976): the single currency dropped to 136.94 yen compared with its late u.s. level of 137.64.
+Line#2 (0.794147): against the japanese currency, the euro was at 136.06 yen compared with the late new york level of 136.03 14.
+------------------------------------------------------------------
+Line#1 (0.597619): several police officers were also said to be seriously hurt.
+Line#2 (0.710417): three other police officers were among five people who were seriously injured.
+------------------------------------------------------------------
+Line#1 (0.570238): but virgin wants to operate concorde on routes to new york, barbados and dubai.
+Line#2 (0.725397): branson said that his preference would be to operate a fully commercial service on routes to new york, barbados and dubai.
+------------------------------------------------------------------
+Line#1 (0.783631): the panel ordered the commerce department to issue revised figures for the duties within 60 days.
+Line#2 (0.587798): it called on the commerce department to respond within 60 days.
+------------------------------------------------------------------
+Line#1 (0.564881): mr. rollins made $721,154 in salary and $243,389 in bonuses in the prior fiscal year.
+Line#2 (0.683571): kevin rollins, dell's president, received $770,962 in salary and a bonus of just more than $2 million in fiscal 2003.
+------------------------------------------------------------------
+Line#1 (0.732937): police said they will conduct dna tests to confirm the man's identity.
+Line#2 (0.597222): dna tests will be performed to confirm his identity.
+------------------------------------------------------------------
+Line#1 (0.831944): penn traffic filed for chapter 11 reorganization at the end of may.
+Line#2 (0.588492): penn traffic entered chapter 11 bankruptcy reorganization may 30.
+------------------------------------------------------------------
+Line#1 (0.583333): every day more american soldiers die.
+Line#2 (0.72037): we're losing one or two american soldiers every day.
+------------------------------------------------------------------
+Line#1 (0.569048): the contract also includes a $200,000 buyout.
+Line#2 (0.798413): perkins also had a $200,000 buyout clause in his contract.
+------------------------------------------------------------------
+Line#1 (0.716893): the yield on the benchmark 10-year treasury note rose as high as 4.66 percent aug. 14 from 3.07 percent in june.
+Line#2 (0.544974): the yield on the 10-year treasury note rose to 4.46% from 4.42% late thursday.
+------------------------------------------------------------------
+Line#1 (0.803509): peoplesoft's board now has 10 business days to evaluate the oracle offer and make a recommendation to its shareholders.
+Line#2 (0.568489): nevertheless, peoplesoft must review oracle's tender offer and make a recommendation to shareholders.
+------------------------------------------------------------------
+Line#1 (0.747222): recall proponents claim to have turned in more than 1.6 million signatures.
+Line#2 (0.592593): recall sponsors say they have submitted 1.6 million signatures.
+------------------------------------------------------------------
+Line#1 (0.750146): two astronomers surveying the region around jupiter have detected 20 new moons, bringing the giant planet's total to 60.
+Line#2 (0.58396): astronomers have clocked eight more moons orbiting jupiter, bringing its known total to 60.
+------------------------------------------------------------------
+Line#1 (0.549639): but the foreign affairs committee yesterday cleared blair's cabinet of that accusation.
+Line#2 (0.732285): in its report, the foreign affairs committee absolved mr. blair of charges of doctoring intelligence.
+------------------------------------------------------------------
+Line#1 (0.835197): we believe the report is fully consistent with what the courts have ruled ... that the department's actions are fully within the law.
+Line#2 (0.545963): comstock said several federal courts have ruled that the detentions are fully within the law.
+------------------------------------------------------------------
+Line#1 (0.77127): the foreign office said there was a "clear" risk of terrorist attack in djibouti, eritrea, ethiopia, somalia, tanzania and uganda.
+Line#2 (0.522917): the warnings were issued on djibouti, eritrea, ethiopia, somalia, tanzania and uganda.
+------------------------------------------------------------------
+Line#1 (0.599359): goldman also raised its quarterly dividend to 25 cents from 12 cents, citing the new tax law.
+Line#2 (0.833583): goldman decided to increase its quarterly dividend to 25 cents a share from 12 cents, citing recent tax legislation as a primary factor behind the move.
+------------------------------------------------------------------
+Line#1 (0.583163): under mexican law, bounty hunting is considered a form of kidnapping.
+Line#2 (0.701531): bounty hunting is illegal in mexico, and the bounty hunter was charged with kidnapping.
+------------------------------------------------------------------
+Line#1 (0.836667): authorities appealed to the public friday to come forward and provide what could be the key to solving the sniper-style shootings that have killed three people outside area convenience stores.
+Line#2 (0.592593): authorities looked to the public yesterday for help in solving the deadly sniper-style shootings of three people outside charleston-area convenience stores.
+------------------------------------------------------------------
+Line#1 (0.578363): financial terms of the deal, expected to close this month, were not released.
+Line#2 (0.763576): financial terms of the sale, which is expected to be completed by the end of august, were not disclosed.
+------------------------------------------------------------------
+Line#1 (0.579121): since last april, scientists have learned how acrylamide is formed.
+Line#2 (0.804518): scientists are working to determine how exactly how acrylamide is formed in food.
+------------------------------------------------------------------
+Line#1 (0.597601): geoghan, 68, was taken to leominster hospital, where he was pronounced dead at 1:17 p.m.
+Line#2 (0.766206): mr. geoghan was taken to the university of massachusetts memorial health alliance hospital in leominster, mass., where he died at 1:17 p.m.
+------------------------------------------------------------------
+Line#1 (0.544907): the trial, featuring 125 witnesses, could continue until the start of 2004.
+Line#2 (0.764087): the trial, which could last until early 2004, is expected to hear the first of 125 witnesses friday.
+------------------------------------------------------------------
+Line#1 (0.746176): the affidavit said british customs officials stopped al-amoudi at heathrow airport last month when he was attempting to travel to damascus, syria.
+Line#2 (0.568182): the affidavit says al-amoudi was detained aug. 16 attempting to travel from london to damascus, syria.
+------------------------------------------------------------------
+Line#1 (0.636086): tisha kresler, a spokeswoman for global crossing, declined to comment.
+Line#2 (0.589683): a global crossing representative had no immediate comment.
+------------------------------------------------------------------
+Line#1 (0.568367): he could get six to seven years in prison, plus fines.
+Line#2 (0.639796): the charges carry up to 25 years in prison and $1.25 million in fines.
+------------------------------------------------------------------
+Line#1 (0.59375): "we have found the smoking gun," board member scott hubbard said.
+Line#2 (0.725379): "we have found the smoking gun," said hubbard, director of nasa's ames research center in california.
+------------------------------------------------------------------
+Line#1 (0.545166): "a lot of these are made-up stories," schwarzenegger told nbc television.
+Line#2 (0.794444): "well, first of all, a lot of these are made up stories," mr. schwarzenegger said.
+------------------------------------------------------------------
+Line#1 (0.566358): mitchell, man of la mancha, malcolm gets from amour and john selya, movin' out, complete the field.
+Line#2 (0.845767): brian stokes mitchell, who stars in a revival of man of la mancha, malcolm gets from amour and john selya of movin out fill out the category.
+------------------------------------------------------------------
+Line#1 (0.466667): but right now it looks manageable," gehman told reporters.
+Line#2 (0.807143): right now it looks to me like it's going to be manageable," he said.
+------------------------------------------------------------------
+Line#1 (0.566667): the remaining five men continue to be questioned under section 17 of the terrorism act.
+Line#2 (0.728333): three men and two women who were at the property were arrested under section 41 of the terrorism act 2000.
+------------------------------------------------------------------
+Line#1 (0.577415): in washington, the federal government remained closed for a second day.
+Line#2 (0.801786): the nation's capital was quiet today, with the federal government shut down for the second day.
+------------------------------------------------------------------
+Line#1 (0.559211): the standard   poor's 500 index rose 11.14, or 1.2 percent, to 931.41."
+Line#2 (0.778947): the standard   poor's 500 index gained 10.89, or 1.2 percent, to 931.12 as of 12:01 p.m. in new york.
+------------------------------------------------------------------
+Line#1 (0.644231): he told the jury stubbs is a "cold, calculating killer."
+Line#2 (0.597436): district attorney dave lupas reminded jurors that stubbs is, "a cold, calculating killer".
+------------------------------------------------------------------
+Line#1 (0.815051): a former employee of a local power company pleaded guilty wednesday to setting off a bomb that knocked out a power substation during the winter olympics last year.
+Line#2 (0.588464): a former utah power meter reader pleaded guilty wednesday to bombing a power substation during the 2002 winter olympics.
+------------------------------------------------------------------
+Line#1 (0.77904): the acquisition is expected to close by the end of the month.
+Line#2 (0.595833): the deal is expected to close later this month.
+------------------------------------------------------------------
+Line#1 (0.598611): it will be followed in november by a third movie, "the matrix revolutions."
+Line#2 (0.751389): the film is the second of a trilogy, which will wrap up in november with "the matrix revolutions."
+------------------------------------------------------------------
+Line#1 (0.765873): the chip also features an updated longrun power and heat management system.
+Line#2 (0.576389): it also features nvidia's own powermizer power management system.
+------------------------------------------------------------------
+Line#1 (0.642857): oracle shares were also higher, trading up 12 cents at $13.60.
+Line#2 (0.59632): shares of redwood shores-based oracle rose 14 cents to $13.62.
+------------------------------------------------------------------
+Line#1 (0.572884): the problem likely will mean corrective changes before the shuttle fleet starts flying again.
+Line#2 (0.795414): he said the problem needs to be corrected before the space shuttle fleet is cleared to fly again.
+------------------------------------------------------------------
+Line#1 (0.783222): democrats currently hold a 17-15 advantage in the state's congressional delegation.
+Line#2 (0.590358): the texas congressional delegation now is 17-15 democratic.
+------------------------------------------------------------------
+Line#1 (0.774074): the reading for both august and july is the best seen since the survey began in august 1997.
+Line#2 (0.598148): it is the highest reading since the index was created in august 1997.
+------------------------------------------------------------------
+Line#1 (0.532143): "imagine that in someone's fucking brain," klebold said.
+Line#2 (0.790152): imagine, one said, what a bullet would do in someone's brain.
+------------------------------------------------------------------
+Line#1 (0.733862): the s3c2440 cpu supports major operating systems including microsoft windows ce pocket pc, palm os, symbian, and linux.
+Line#2 (0.574537): it supports the windows ce, palm, symbian, and linux operating systems.
+------------------------------------------------------------------
+Line#1 (0.746006): instead, tickets for the jersey jam went on sale last night through ticketmaster.
+Line#2 (0.517801): tickets, available through ticketmaster, went on sale yesterday.
+------------------------------------------------------------------
+Line#1 (0.741402): nvidia shares lost 58 cents  u.s.  or 3.46 per cent to $16.20 yesterday on the nasdaq stock market.
+Line#2 (0.556878): nvidia's stock fell 65 cents, or almost 4 percent, to $16.13 on nasdaq.
+------------------------------------------------------------------
+Line#1 (0.66875): shares of salix have rocketed 64 percent since axcan made its first offer on april 10.
+Line#2 (0.502232): since the initial takeover offer, salix shares have risen about 35 percent.
+------------------------------------------------------------------
+Line#1 (0.560847): he also worked in the virginia attorney general's office.
+Line#2 (0.629927): before that he held various posts in virginia, including deputy attorney general.
+------------------------------------------------------------------
+Line#1 (0.494444): two years later, the insurance coverage would begin.
+Line#2 (0.668056): under the agreement, medicare coverage for drug benefits would begin in 2006.
+------------------------------------------------------------------
+Line#1 (0.598485): she was the only woman in her unit and a member of teamsters local 995.
+Line#2 (0.823106): she was the only woman employed as a warehouse worker and heavy equipment operator and the only woman in her teamsters local.
+------------------------------------------------------------------
+Line#1 (0.568424): moseley and a senior aide delivered their summary assessments to about 300 american and allied military officers on thursday.
+Line#2 (0.836338): general moseley and a senior aide presented their assessments at an internal briefing for american and allied military officers at nellis air force base in nevada on thursday.
+------------------------------------------------------------------
+Line#1 (0.592361): ricky clemons' brief, troubled missouri basketball career is over.
+Line#2 (0.7): missouri kicked ricky clemons off its team, ending his troubled career there.
+------------------------------------------------------------------
+Line#1 (0.841667): "our decision today is quite limited," the judges stated in their opinion.
+Line#2 (0.590278): "our decision today is quite limited," they conclude.
+------------------------------------------------------------------
+Line#1 (0.580882): kingston also finished with 67 after producing six birdies on the back nine.
+Line#2 (0.786275): south africa's james kingston is also on five under after blitzing six birdies on his back nine.
+------------------------------------------------------------------
+Line#1 (0.564638): amgen shares gained 93 cents, or 1.45 percent, to $65.05 in afternoon trading on nasdaq.
+Line#2 (0.725926): shares of allergan were up 14 cents at $78.40 in late trading on the new york stock exchange.
+------------------------------------------------------------------
+Line#1 (0.516941): licensing revenue slid 21 percent, however, to $107.6 million.
+Line#2 (0.657509): license sales, a key measure of demand, fell 21 percent to $107.6 million.
+------------------------------------------------------------------
+Line#1 (0.848571): the study is being published today in the journal science.
+Line#2 (0.5475): their findings were published today in science.
+------------------------------------------------------------------
+Line#1 (0.786706): crohn's disease causes inflammation of the intestine and symptoms include diarrhea, pain, weight loss and tiredness.
+Line#2 (0.592956): symptoms include chronic diarrhoea, abdominal pain, weight loss and extreme tiredness.
+------------------------------------------------------------------
+Line#1 (0.591126): county judge tim harley declared a mistrial because the jury could not reach a verdict.
+Line#2 (0.775): judge tim harley declared a mistrial in the adrian mcpherson gambling trial today after the jury was unable to reach a verdict.
+------------------------------------------------------------------
+Line#1 (0.736317): pacific northwest has more than 800 employees, and wells fargo has 2,400 in washington.
+Line#2 (0.548044): it has 800 employees, compared with wells fargo's 2,400.
+------------------------------------------------------------------
+Line#1 (0.792438): four versions of windows operating systems are targeted: windows nt, windows 2000, windows xp and windows server 2003.
+Line#2 (0.596495): the new worm affects these windows systems: 2000, xp, nt 4.0 and server 2003.
+------------------------------------------------------------------
+Line#1 (0.668519): wal-mart estimates more than 100 million americans visit their stores every week.
+Line#2 (0.515873): each week 138 million shoppers visit wal-mart's 4,750 stores.
+------------------------------------------------------------------
+Line#1 (0.590657): the prime minister, junichiro koizumi, joined the criticism.
+Line#2 (0.729683): prime minister junichiro koizumi said mr ota deserved to be criticised.
+------------------------------------------------------------------
+Line#1 (0.838828): to put it very simply, antetonitrus is brontosaurus's older brother, hence the name.
+Line#2 (0.589744): antetonitrus was brontosaurus' older brother, hence the name.
+------------------------------------------------------------------
+Line#1 (0.738736): the technology is available for download on the microsoft developer network  msdn  site.
+Line#2 (0.518981): wse version 2 is available from microsoft's developer web site.
+------------------------------------------------------------------
+Line#1 (0.585828): ohio attorney general jim petro hailed the appellate court ruling.
+Line#2 (0.723129): ohio attorney general jim petro was pleased by the ruling, spokesman mark gribben said.
+------------------------------------------------------------------
+Line#1 (0.580117): last year, he made an unsuccessful bid for the democratic nomination for governor.
+Line#2 (0.776953): he ran last year for the democratic nomination for texas governor, but lost the primary to multimillionaire tony sanchez.
+------------------------------------------------------------------
+Line#1 (0.715484): mrs. clinton said she was incredulous that he would endanger their marriage and family.
+Line#2 (0.591071): she hadn't believed he would jeopardize their marriage and family.
+------------------------------------------------------------------
+Line#1 (0.811111): druce is still being held at the prison and is now in isolation, she said.
+Line#2 (0.589365): druce last night was held in isolation at the same prison.
+------------------------------------------------------------------
+Line#1 (0.729535): "the issue has been resolved," marlins president david samson said through a club spokesman.
+Line#2 (0.585714): the marlins only said: "the issue has been resolved."
+------------------------------------------------------------------
+Line#1 (0.534722): the suspect has been charged with juvenile delinquency, based on intentionally causing damage to computers.
+Line#2 (0.779431): a news release from the office said the arrest was for an act of juvenile delinquency based on intentionally causing damage to protected computers.
+------------------------------------------------------------------
+Line#1 (0.581293): "we've become like total strangers," klein quotes him as saying.
+Line#2 (0.75): "we've become like total strangers," john told a pal two days before his death.
+------------------------------------------------------------------
+Line#1 (0.769257): researchers found the fossils in a semidesert area of venezuela, about 250 miles west of caracas.
+Line#2 (0.491304): phoberomys' skeleton was unearthed 250 miles west of caracas, venezuela.
+------------------------------------------------------------------
+Line#1 (0.871556): in sweden, 99 percent of women are literate while at the other end of the scale, only eight percent of women in niger are literate.
+Line#2 (0.583889): in sweden, 99 percent of women are literate, compared with only 8 percent of women in niger.
+------------------------------------------------------------------
+Line#1 (0.589807): "if we could do that throughout the world, we could end terrorism," he said.
+Line#2 (0.839212): this is a hospital that treats everybody as people, and if we could do that throughout the world, we could end terrorism."
+------------------------------------------------------------------
+Line#1 (0.548704): hospitals and the red cross appealed to blood donors yesterday.
+Line#2 (0.679221): the connecticut hospital association joined the red cross monday in calling for more blood donors.
+------------------------------------------------------------------
+Line#1 (0.739683): the case comes out of illinois and involves a for-profit company called telemarketing associates inc.
+Line#2 (0.544733): the case decided monday centered around an illinois fund-raiser, telemarketing associates.
+------------------------------------------------------------------
+Line#1 (0.695759): the weather service reported maximum sustained winds of nearly 105 miles an hour with stronger gusts.
+Line#2 (0.5): maximum sustained winds were around 40 mph, with stronger gusts.
+------------------------------------------------------------------
+Line#1 (0.811728): the only other person who had not been accounted for sunday was a man from fort worth, texas.
+Line#2 (0.508598): another person, a man from fort worth, texas, also was missing.
+------------------------------------------------------------------
+Line#1 (0.543386): the standard   poor's 500 index slipped 4.77, or 0.5 percent, to 929.62.
+Line#2 (0.767593): the broad standard   poor's 500 index .spx shed 0.17 of a point, or just 0.02 percent, to 934.
+------------------------------------------------------------------
+Line#1 (0.540043): montreal-based bombardier's class b shares rose 6 canadian cents to c$3.80 in toronto on friday.
+Line#2 (0.710823): bombardier's class b shares were up 13 canadian cents or 3.2 percent at c$3.93 on the toronto stock exchange late monday morning.
+------------------------------------------------------------------
+Line#1 (0.786565): snow made his comments to reuters on friday but they were embargoed until tuesday.
+Line#2 (0.555556): snow's interview was conducted on friday but embargoed until tuesday.
+------------------------------------------------------------------
+Line#1 (0.558333): i'm never going to forget this day.
+Line#2 (0.763333): i am never going to forget this throughout my life."
+------------------------------------------------------------------
+Line#1 (0.687908): several shots rang out in the darkness, but only one gator had been killed by 11 p.m.
+Line#2 (0.54183): several shots rang out wednesday night, but no gators were killed then.
+------------------------------------------------------------------
+Line#1 (0.548611): grassley and baucus rejected any disparity in drug benefits.
+Line#2 (0.705556): grassley and baucus said they had rejected that approach in their plan.
+------------------------------------------------------------------
+Line#1 (0.592308): the foundation said telephone support would cost $39.95 per incident.
+Line#2 (0.739103): the group is also offering end user telephone support for $39.95 per incident.
+------------------------------------------------------------------
+Line#1 (0.743347): sharpton nearly jumped out of his chair, saying, "that sounds more like stonewall jackson than jesse jackson.
+Line#2 (0.580065): "that sounds more like stonewall jackson than reverend  jesse  jackson," he retorted.
+------------------------------------------------------------------
+Line#1 (0.828129): he also recruited others to participate in the scheme by convincing them to receive fraudulently obtained merchandise he had ordered for himself.
+Line#2 (0.596591): he also recruited other people to take delivery of fraudulently obtained merchandise he had ordered.
+------------------------------------------------------------------
+Line#1 (0.744818): she and her husband left behind two sons: robert, who was six, and michael, who was 10.
+Line#2 (0.523529): the couple left behind two boys, robert, 6, and michael, 10.
+------------------------------------------------------------------
+Line#1 (0.566964): the rapper's lawyer, mark gann, didn't return calls for comment.
+Line#2 (0.830364): the 27-year-old rapper's attorney in the civil matter, mark gann, did not return calls for comment.
+------------------------------------------------------------------
+Line#1 (0.461996): british airways' new york-to-london runs will end in october.
+Line#2 (0.723932): british airways plans to retire its seven concordes at the end of october.
+------------------------------------------------------------------
+Line#1 (0.589876): ernst   young admitted no wrongdoing with the settlement.
+Line#2 (0.726404): ernst   young spokesman kenneth kerrigan said the firm admits no wrongdoing.
+------------------------------------------------------------------
+Line#1 (0.575397): kodak expects earnings of 5 cents to 25 cents a share in the quarter.
+Line#2 (0.635317): analysts surveyed by thomson first call had expected kodak to earn 68 cents a share for the quarter.
+------------------------------------------------------------------
+Line#1 (0.881223): a magnitude 8 quake hit the area friday, setting off a fire in another tank that consumed 188,700 barrels, of crude oil.
+Line#2 (0.589394): the magnitude 8 earthquake last friday gutted another tank, consuming 188,700 barrels of crude oil.
+------------------------------------------------------------------
+Line#1 (0.763052): his mother contacted the federal public defender's office in sacramento, which has agreed to handle his surrender, she says.
+Line#2 (0.591813): his family approached the federal defender's office in sacramento friday about arranging his surrender.
+------------------------------------------------------------------
+Line#1 (0.573545): the dow jones industrial average .dji added 47.9 points, or 0.52 percent, to 9,174.35.
+Line#2 (0.745503): the dow jones industrial average .dji ended up 64.64 points, or 0.71 percent, at 9,191.09, according to the latest available data.
+------------------------------------------------------------------
+Line#1 (0.837798): announcing the selection, kmart ceo julian day said grey will help the retailer "find creative ways to communicate the unique strengths of kmart to the new america consumer."
+Line#2 (0.591766): together, we will find creative ways to communicate the unique strengths of kmart to the 'new america' consumer."
+------------------------------------------------------------------
+Line#1 (0.577778): micron has declared its first quarterly profit for three years.
+Line#2 (0.815324): micron's numbers also marked the first quarterly profit in three years for the dram manufacturer.
+------------------------------------------------------------------
+Line#1 (0.577839): "i would rather be talking about positive numbers than negative.
+Line#2 (0.80303): but i would rather be talking about high standards rather than low standards."
+------------------------------------------------------------------
+There are 154 instance 

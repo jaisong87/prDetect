@@ -1,0 +1,705 @@
+Line#1 (0.833333):shares of genentech, a much larger company with several products on the market, rose more than 2 percent 
+Line#2 (0.666667):shares of xoma fell 16 percent in early trade, while shares of genentech, a much larger company with several products on the market, were up 2 percent 
+################################################################################################
+Line#1 (0.947368):legislation making it harder for consumers to erase their debts in bankruptcy court won overwhelming house approval in march 
+Line#2 (0.730769):legislation making it harder for consumers to erase their debts in bankruptcy court won speedy, house approval in march and was endorsed by the white house 
+################################################################################################
+Line#1 (0.653846):as well as the dolphin scheme, the chaos has allowed foreign companies to engage in damaging logging and fishing operations without proper monitoring or export controls 
+Line#2 (0.809524):internal chaos has allowed foreign companies to set up damaging commercial logging and fishing operations without proper monitoring or export controls 
+################################################################################################
+Line#1 (0.695652):"i think you'll see a lot of job growth in the next two years," he said, adding the growth could replace jobs lost 
+Line#2 (0.875):"i think you'll see a lot of job growth in the next two years," said mankiw 
+################################################################################################
+Line#1 (0.884615):the dollar was at 116 92 yen against the yen , flat on the session, and at 1 2891 against the swiss franc , also flat 
+Line#2 (0.714286):the dollar was at 116 78 yen jpy= , virtually flat on the session, and at 1 2871 against the swiss franc chf= , down 0 1 percent 
+################################################################################################
+Line#1 (0.916667):no dates have been set for the civil or the criminal trial 
+Line#2 (0.588235):no dates have been set for the criminal or civil cases, but shanley has pleaded not guilty 
+################################################################################################
+Line#1 (0.857143):"if that ain't a democrat, i must be at the wrong meeting," he said 
+Line#2 (0.545455):and if that ain't a democrat, then i must be in the wrong meeting," he said to thunderous applause from his supporters 
+################################################################################################
+Line#1 (0.772727):the ecb has cut interest rates six times over that period, from 4 75 percent in october 2000 to 2 5 percent 
+Line#2 (0.947368):the ecb has cut rates from 4 75 percent in october 2000 to 2 5 percent in that period 
+################################################################################################
+Line#1 (0.818182):"this man gambled with our lives and we, the passengers, lost," said andres rivera jr , who was also on the bus 
+Line#2 (0.708333):"this man gambled with our lives and we, the passengers, lost," said passenger andres rivera jr , whose 15-year-old niece, jazmine santiago, was killed 
+################################################################################################
+Line#1 (0.76):even without call center requests, companies using the handset option must have 95 percent of their customers using the technology by the end of 2005 
+Line#2 (0.857143):those that choose the handset option must have 95 percent of their customers using the technology by the end of 2005 
+################################################################################################
+Line#1 (0.866667):in a statement distributed friday, 28 chechen non-governmental organizations said they would boycott the vote 
+Line#2 (0.619048):in a statement distributed today, 28 chechen non-governmental organisations said they would boycott the vote and warned voters to expect fraud 
+################################################################################################
+Line#1 (0.944444):the transaction will expand callebaut's sales revenues from its consumer products business to 45 percent from 23 percent 
+Line#2 (0.727273):the transaction will expand callebaut's sales revenues from its consumer products business by around 45 percent to some one-third of total sales 
+################################################################################################
+Line#1 (0.818182):initial autopsy reports show they died of dehydration, hyperthermia and suffocation 
+Line#2 (0.625):two more died later, and initial autopsy reports show they succumbed to dehydration, hypothermia and suffocation 
+################################################################################################
+Line#1 (0.625):most of those on board were lebanese but some were from benin, guinea and sierra leone 
+Line#2 (0.818182):some of the passengers were from benin, guinea and sierra leone 
+################################################################################################
+Line#1 (0.857143):the transfers would reduce p g's worldwide work force to slightly less than 100,000 
+Line#2 (0.6):the transfers would reduce p g’s worldwide work force to slightly less than 100,000, down from 110,000 several years ago 
+################################################################################################
+Line#1 (0.818182):the civilian unemployment rate improved marginally last month -- slipping to 6 1 percent -- even as companies slashed payrolls by 93,000 
+Line#2 (0.612903):the civilian unemployment rate improved marginally last month _ sliding down to 6 1 percent _ as companies slashed payrolls by 93,000 amid continuing mixed signals about the nation's economic health 
+################################################################################################
+Line#1 (0.666667):lord of the rings director peter jackson and companion fran walsh arrive at the 74th annual academy awards 
+Line#2 (0.916667):lord of the rings director peter jackson and longtime companion fran walsh 
+################################################################################################
+Line#1 (0.842105):"and if there is a leak out of my administration," he added, "i want to know who it is 
+Line#2 (0.615385):he added, "there's just too many leaks in washington, and if there is a leak out of my administration, i want to know who it is 
+################################################################################################
+Line#1 (0.740741):executive recruiters say that finding a seasoned chief merchandising officer will perhaps be the trickiest of all hires because there is such a dearth of good ones 
+Line#2 (1):executive recruiters say that finding a seasoned chief merchandising officer perhaps will be the trickiest of all hires 
+################################################################################################
+Line#1 (0.73913):nbc probably will end the season as the second most popular network behind cbs, although it's first among the key 18-to- 49-year-old demographic 
+Line#2 (0.809524):nbc will probably end the season as the second most-popular network behind cbs, which is first among the key 18-to-49-year-old demographic 
+################################################################################################
+Line#1 (0.736842):it's also a strategic win for overture, given that knight ridder had the option of signing on google's services 
+Line#2 (0.823529):it's also a strategic win for overture, given that knight ridder had been using google's advertising services 
+################################################################################################
+Line#1 (0.733333):an animal rights group waited friday to find out if it has succeeded in putting a stop to a state-sponsored program allowing hunters to shoot wolves from airplanes in alaska 
+Line#2 (0.846154):an alaska judge has rejected an attempt by an animal rights group to stop a state-sponsored program allowing hunters to shoot wolves from airplanes in alaska 
+################################################################################################
+Line#1 (0.823529):civilian reservists also could be sent overseas for jobs such as the reconstruction of afghanistan and iraq 
+Line#2 (0.583333):civilian reservists also could be sent overseas for jobs such as reconstruction in afghanistan and iraq, working in positions from translator to truck driver 
+################################################################################################
+Line#1 (0.789474):the conservancy helped in the purchase of the land from the estate of samuel mills damon for $22 million 
+Line#2 (0.8125):the park service purchased the land from the estate of samuel mills damon for $22 million 
+################################################################################################
+Line#1 (0.740741):i urge congress to quickly resolve any differences and send me the final bill as soon as possible so that i can sign it into law "
+Line#2 (0.863636):he urged congress to "send me the final bill as soon as possible so that i can sign it into law "
+################################################################################################
+Line#1 (0.740741):aside from meeting chinese premier wen jiabao on the sidelines of the forum, mr goh also met pakistani president pervez musharraf and tajikistan president emomali sharipovich rakhmonov 
+Line#2 (0.833333):on the sidelines of the bo'ao forum, mr goh also met pakistani president pervez musharraf and held talks with tajikistan president emomali sharipovich rakhmonov 
+################################################################################################
+Line#1 (0.681818):shares in safeway rose 1-1 4p to 290-1 2p while morrison shares rose 1-3 4p to 222-3 4p in early morning trade 
+Line#2 (0.857143):shares in safeway rose 1-1 4p to 288-1 4p in morning trade in london 
+################################################################################################
+Line#1 (0.521739):germany's foreign ministry said it believed the passengers were from the northern states of lower saxony and schleswig-holstein, but had no further details 
+Line#2 (0.8125):germany said most of the passengers were from the northern states of lower saxony and schleswig-holstein 
+################################################################################################
+Line#1 (0.64):proving that the millville son's sacrifice would not go unsung, mayor james quinn ordered all city flags flown at half-mast for the next 30 days 
+Line#2 (0.833333):in millville yesterday, mayor james quinn ordered all city flags flown at half-staff for the next 30 days 
+################################################################################################
+Line#1 (0.954545):pratt  whitney had said that 75 per cent of the engine equipment would be outsourced to europe, with final assembly in germany 
+Line#2 (0.785714):pratt   whitney had said that if it won the contract 75 per cent of the engine equipment would be outsourced to european suppliers, with final assembly in germany 
+################################################################################################
+Line#1 (0.8125):"certainly what we know suggests that we should take what they're saying very seriously," he added 
+Line#2 (0.736842):"we don't know everything [but] what we know suggests that we should take what they're saying seriously," he said 
+################################################################################################
+Line#1 (0.72):tony blair has taken a hardline stance arguing nothing should be done to lessen the pressure on mugabe at the gathering in the capital abuja 
+Line#2 (0.894737):the prime minister has taken a hardline stance arguing nothing should be done to lessen the pressure on mugabe 
+################################################################################################
+Line#1 (0.857143):a month ago a military c-17 transporter returned to baghdad when an engine exploded 
+Line#2 (0.590909):a month ago a military transport plane returned to baghdad when an engine exploded in what officials called a "safety incident "
+################################################################################################
+Line#1 (0.666667):associated press writers michelle morgante in san diego and ken ritter in las vegas contributed to this article 
+Line#2 (0.916667):associated press writer ken ritter in las vegas contributed to this article 
+################################################################################################
+Line#1 (0.769231):the legislation came after u s  district judge lee r  west in oklahoma city ruled last week that the ftc lacked authority to run the registry 
+Line#2 (0.904762):u s  district judge lee r  west ruled tuesday in oklahoma city that the ftc lacks authority to run the registry 
+################################################################################################
+Line#1 (0.857143):shattered glass,"starring hayden christensen as stephen glass, debuted well with $80,000 in eight theaters 
+Line#2 (0.48):"shattered glass" _ starring hayden christensen as stephen glass, the new republic journalist fired for fabricating stories _ debuted well with $80,000 in eight theaters 
+################################################################################################
+Line#1 (0.695652):she said he persisted and she eventually allowed him to fix her bike while she sat in the front seat of his car 
+Line#2 (0.842105):she said she eventually allowed him to fix her bike while she sat in his car, and they chatted 
+################################################################################################
+Line#1 (0.692308):foam flaking off from all over the tank left dozens of pockmarks each flight on the thermal tiles that cover much of the shuttle, turcotte said 
+Line#2 (0.857143):during the problem liftoffs, foam left dozens of pockmarks on the thermal tiles that cover much of the shuttle, turcotte said 
+################################################################################################
+Line#1 (1):just five months ago, dean committed to accepting taxpayer money and vowed to attack any democrat who didnt 
+Line#2 (0.730769):just five months ago, dean committed to accepting taxpayer money and the spending limits that come with it and vowed to attack any democrat who didnt 
+################################################################################################
+Line#1 (0.875):the report ranked 45 large companies based on employment, marketing, procurement, community reinvestment and charitable donations 
+Line#2 (0.608696):of those three, only dillard's responded to the survey that ranked 45 large companies on employment, marketing, procurement, community reinvestment and charitable donations 
+################################################################################################
+Line#1 (0.64):but for more than a century, an untold amount of money intended for some of the nation's poorest residents was lost, stolen or never collected 
+Line#2 (0.875):for more than a century, an undetermined amount of money was lost, stolen, or never collected 
+################################################################################################
+Line#1 (0.944444):under the plan, maine would act as a "pharmacy benefit manager" to lower the cost of prescription drugs 
+Line#2 (0.708333):under maine rx, which state lawmakers approved in 2000, maine would act as a "pharmacy benefit manager" to lower the cost of prescription drugs 
+################################################################################################
+Line#1 (0.826087):the rats that consumed the tomato powder had a 26 percent lower risk of prostate cancer death than the control rats, researchers found 
+Line#2 (0.75):rats on the tomato powder diet had a 26 percent lower risk of prostate cancer death than the control rats, allowing for diet restriction 
+################################################################################################
+Line#1 (0.724138):but he is the only candidate who has won national labor endorsements so far, picking up his 11th union on tuesday when the united steelworkers of america endorsed him 
+Line#2 (1):but he is the only candidate who has won national labor endorsements so far, picking up his 11th on tuesday 
+################################################################################################
+Line#1 (0.666667):"i don't know if the person i'm talking to now may end up being someone else at another time that may not follow the rules," parrish said 
+Line#2 (0.888889):"i don't know whether the person i'm talking to now may end up being someone else," parrish said 
+################################################################################################
+Line#1 (0.636364):cambone said u s forces found the tractor-trailer april 19 at a kurdish checkpoint near the city of mosul in northern iraq 
+Line#2 (0.8125):kurdish forces at a checkpoint near mosul in northern iraq seized the trailer on april 19 
+################################################################################################
+Line#1 (0.653846):but adora obi nweze, the naacp state president, said the state only tried to prove its conclusion of suicide, rather than consider the possibility of murder 
+Line#2 (0.888889):adora obi nweze, the naacp state president, said the state has refused to consider the possibility of murder 
+################################################################################################
+Line#1 (0.521739):the official would not name the leakers for the record and said he had no indication that mr bush knew about the calls 
+Line#2 (0.9375):the official would not name the leakers for the record and would not name the journalists 
+################################################################################################
+Line#1 (0.785714):the organization of petroleum exporting countries defied expectations on wednesday and lowered its output ceiling by 900,000 barrels a day to 24 5 million barrels starting in november 
+Line#2 (0.884615):the organization of petroleum exporting countries decided yesterday to lower its output ceiling by 900,000 barrels a day to 24 5 million barrels starting in november 
+################################################################################################
+Line#1 (0.941176):though that slower spending made 2003 look better, many of the expenditures actually will occur in 2004 
+Line#2 (0.772727):though that slower spending made 2003 look better, many of the expenditures will actually occur in 2004, making that year's shortfall worse 
+################################################################################################
+Line#1 (0.692308):songs can be burned to cds, but the same playlist can only be burned up to five times - apple's puts the limit at ten burns 
+Line#2 (0.888889):tracks can be burned to cds, but the same playlist may only be burned up to five times 
+################################################################################################
+Line#1 (0.615385):one man died and 15 others were hospitalized after drinking tainted coffee following the april 27 worship service at gustaf adolph lutheran church in new sweden 
+Line#2 (0.894737):the victims drank tainted coffee after the april 27 worship service at gustaf adolph lutheran church in new sweden 
+################################################################################################
+Line#1 (0.588235):also thursday, the nyse's board elected six new directors - three non-industry representatives and three industry representatives 
+Line#2 (0.8125):also thursday, the nyse's board elected six new directors to the board and re-elected six others 
+################################################################################################
+Line#1 (0.833333):beagle 2 is attached to mars express by what is known as a spin-up and ejection mechanism  suem  
+Line#2 (0.809524):a command is sent to mars express to release beagle 2 by what is known as a spin-up and eject mechanism 
+################################################################################################
+Line#1 (0.76):in afternoon trading in europe, france's cac-40 advanced and britain's ftse 100 each gained 0 7 percent, while germany's dax index rose 0 6 percent 
+Line#2 (0.826087):in europe, france's cac-40 rose 1 3 percent, britain's ftse 100 declined 0 2 percent and germany's dax index gained 0 6 percent 
+################################################################################################
+Line#1 (0.8125):that was a reversal from a loss of $35 million, or 20 cents, a year earlier 
+Line#2 (0.619048):net income was 12 cents a share, compared with a net loss of $35 million, or 20 cents, a year earlier 
+################################################################################################
+Line#1 (0.666667):the market's broader gauges also posted big gains, having climbed higher for four consecutive weeks 
+Line#2 (0.833333):the broader market also retreated, having climbed higher for four consecutive weeks 
+################################################################################################
+Line#1 (0.941176):the state wants to kill the wolves in approximately a 1,700-square-mile area near the village of mcgrath 
+Line#2 (0.809524):the state wants to kill the wolves in approximately a 1,700-square-mile area near mcgrath to establish a moose nursery of sorts 
+################################################################################################
+Line#1 (0.866667):bloodsworth was ultimately cleared with evidence gathered from a semen stain on the victim's underwear 
+Line#2 (0.619048):in 1993, after nine years in prison, bloodsworth was cleared with evidence gathered from a semen stain on the victim's panties 
+################################################################################################
+Line#1 (0.857143):in next week's drill, "our objective is to improve the nation's capacity to save lives in     a terrorist event," ridge said 
+Line#2 (0.708333):"our objective is to improve the nation's capacity to save lives in     a terrorist event," including use of weapons of mass destruction, ridge said 
+################################################################################################
+Line#1 (0.904762):he allegedly told his ex-wife in an angry phone call that he had no intention of following their new custody agreement 
+Line#2 (0.777778):the two had battled over custody and he allegedly told her in an angry phone call that he had no intention of following their new custody agreement 
+################################################################################################
+Line#1 (1):the dollar's slide against the yen was curbed by wariness that japanese authorities could intervene to stem the yen's rise 
+Line#2 (0.807692):despite hefty losses against the euro, the dollar's slide versus the yen was curbed by wariness that japanese authorities could intervene to stem the yen's rise 
+################################################################################################
+Line#1 (0.818182):woori finance is the only large bank remaining to be sold but the government still has large stakes in several other lenders 
+Line#2 (0.689655):woori finance is the only large bank still to be sold but the state retains large stakes in several others, leading to suspicions of government meddling in lending decisions 
+################################################################################################
+Line#1 (0.692308):"we haven't decided whether to use an unbroken or dotted white line, but this is an experiment worth introducing," said david richardson, the icc's cricket manager 
+Line#2 (0.894737):"we haven't decided whether to use an unbroken or dotted white line," said dave richardson, the icc's cricket manager 
+################################################################################################
+Line#1 (0.833333):the two democrats on the five-member fcc held a press conference to sway opinion against powell and the two other republicans on the panel 
+Line#2 (0.941176):the two democrats on the five-member fcc panel held a news conference to sway opinion against powell 
+################################################################################################
+Line#1 (1):we caught this     and haven't sent it into the blood supply," said dr  dale towns, cbs calgary medical director 
+Line#2 (0.740741):"we're delighted the testing has worked -- we caught this     and haven't sent it into the blood supply," said dr  dale towns, calgary medical director of cbs 
+################################################################################################
+Line#1 (0.85):lee janzen, who was tied atop the leaderboard with five holes left, finished with a 68 and tied for sixth 
+Line#2 (0.708333):lee janzen, tied atop the leaderboard with five holes left, finished with a 68 to tie for sixth with bob crane  67  at 269 
+################################################################################################
+Line#1 (0.95):less than 20 percent of boise's sales would come from making lumber and paper after the officemax purchase is completed 
+Line#2 (0.76):less than 20 percent of boise's sales would come from making lumber and paper after the officemax purchase is complete, assuming those businesses aren't sold 
+################################################################################################
+Line#1 (0.8125):he claims it may seem unrealistic only because little effort has been devoted to the concept 
+Line#2 (0.590909):"this proposal is modest compared with the space programme, and may seem unrealistic only because little effort has been devoted to it 
+################################################################################################
+Line#1 (0.85):there are an estimated 25,000 to 28,000 tribal fighters in the region, with thousands deployed in and around the town 
+Line#2 (0.653846):bunia has about 750 u n  troops, compared with an estimated 25,000 to 28,000 tribal fighters in the region, with thousands deployed in and around bunia 
+################################################################################################
+Line#1 (0.818182):morrill's wife, ellie, sobbed and hugged bondeson's sister-in-law during the service 
+Line#2 (0.6):at the service morrill's widow, ellie, sobbed and hugged bondeson's sister-in-law as people consoled her 
+################################################################################################
+Line#1 (1):the us responded coolly to the eu deadline, warning that trade sanctions would backfire by hurting european consumers 
+Line#2 (0.666667):the us administration responded coolly to the eu deadline, warning that trade sanctions would backfire by hurting european consumers but pledging "to comply with our international obligations" 
+################################################################################################
+Line#1 (0.785714):last year, he was forced to repay $3,000 in bar tabs that he and his staff incurred while he was labour minister but had originally billed to taxpayers 
+Line#2 (0.869565):last year, stockwell was forced to repay $3,000 in bar tabs that he and his staff rang up while he was labour minister 
+################################################################################################
+Line#1 (0.586207):the judge's decision ended an 18-month process that included a frenzy of last-minute negotiations between bidders and creditors during a standing-room only purchasing hearing in u s  bankruptcy court 
+Line#2 (0.888889):jones' decision friday ended an 18-month process that included a frenzy of last-minute negotiations between bidders and creditors 
+################################################################################################
+Line#1 (0.8125):hoy confirmed the woman's age tuesday and said she has left on vacation with her family 
+Line#2 (0.590909):hoy confirmed the woman's age tuesday and said she was on vacation with her family, but is expected to return this week 
+################################################################################################
+Line#1 (0.933333):seven air force academy cadets face punishment for allegedly drinking with two high school girls 
+Line#2 (0.681818):seven air force academy cadets face punishment for drinking with two high school girls in the latest incident to embarrass the academy 
+################################################################################################
+Line#1 (0.842105):cubs outfielder sammy sosa was suspended for eight games by major league baseball friday for using a corked bat 
+Line#2 (0.695652):sammy sosa was suspended for eight games by major league baseball friday for using a corked bat, and he immediately appealed the decision 
+################################################################################################
+Line#1 (0.823529):the national association of purchasing management-chicago's factory index increased to 58 9 from 55 9 in july 
+Line#2 (0.727273):the national association of purchasing management-chicago's monthly index rose to 58 9 from 55 9 in july, the highest in 15 months 
+################################################################################################
+Line#1 (0.909091):jakarta has boosted the number of troops and police in the resource-rich province in recent weeks from 38,000 to more than 45,000 
+Line#2 (0.75):while the shape of any military operation is unclear, jakarta has boosted the number of troops and police in the resource-rich province to more than 45,000 from 38,000 
+################################################################################################
+Line#1 (0.833333):the contractors convicted last month, brian rose, 36, and joseph quattrone, 35, are to be sentenced in january 
+Line#2 (0.615385):contractors brian rose, 36, and joseph quattrone, 35, who were convicted of submitting hundreds of phony invoices to blue cross, are to be sentenced in january 
+################################################################################################
+Line#1 (0.6):a monthlong grace period in new york city ended may 1, and now bars and restaurants that allow people to puff can face hefty fines 
+Line#2 (0.875):in new york city, bars and restaurants that allow people to smoke can face hefty fines 
+################################################################################################
+Line#1 (0.882353):the movie opens this weekend and the companion game has been on sale since late last month 
+Line#2 (0.73913):the movie opened over the weekend in the number one spot and the companion game has been on sale since late last month 
+################################################################################################
+Line#1 (0.833333):"this is very serious," said dr  julie gerberding, director of the federal centers for disease control and prevention 
+Line#2 (0.592593):we're seeing some very high levels of widespread flu infections in some places," said dr  julie gerberding, director of the federal centers for disease control and prevention 
+################################################################################################
+Line#1 (0.863636):representatives of its tribal and ethnic groups named a cross section of residents yesterday to run municipal affairs alongside the us military 
+Line#2 (0.703704):representatives of its tribal and ethnic groups named a cross-section of residents yesterday to run municipal affairs alongside the u s  military until elections can be held 
+################################################################################################
+Line#1 (0.928571):the who experts didn't say how many cases in hebei were in rural areas 
+Line#2 (0.571429):hebei has reported 191 cases and eight deaths, though the who experts did not say how many were in rural areas 
+################################################################################################
+Line#1 (1):it can store more than a gigabyte of information equivalent to around 12 hours of music in one cubic centimetre 
+Line#2 (0.689655):and it can store more than a gigabyte of information - equivalent to 1,000 high quality images or around 12 hours of music - in just one cubic centimetre 
+################################################################################################
+Line#1 (0.6):his coalition also passed some of the world's most progressive laws in legalizing gay marriage and euthanasia and decriminalizing the personal use of soft drugs 
+Line#2 (0.8125):the coalition passed some of the world's most progressive social legislation, legalising gay marriage and euthanasia 
+################################################################################################
+Line#1 (0.666667):andrew sugden, an evolutionary biology expert and international managing editor of science, described the find as a "milestone       this research has broken the size barrier for rodents" 
+Line#2 (0.947368):andrew sugden, an evolutionary biology expert and the international managing editor of science, described the find as a "milestone" 
+################################################################################################
+Line#1 (0.636364):the conflict centers on a proposal to change a french unemployment fund for artists that takes into account their downtime between shows 
+Line#2 (0.8125):france has a unique unemployment fund for artists that takes into account their downtime between shows 
+################################################################################################
+Line#1 (0.758621):the world's largest software company said it recognized the difficulty the multiple patches posed for companies, and set out to make it easier for them to apply the updates 
+Line#2 (0.9):the world's largest software company said it recognized the difficulty the multiple patches posed for companies trying to apply them 
+################################################################################################
+Line#1 (0.666667):shinseki retires wednesday after a 38-year career that included combat in vietnam and head of u s  peacekeeping efforts in bosnia 
+Line#2 (0.933333):shinseki's career included combat in vietnam and head of u s  peacekeeping efforts in bosnia 
+################################################################################################
+Line#1 (0.9375):"but the first amendment does not shield fraud," justice ruth bader ginsburg wrote for the court 
+Line#2 (0.636364):"the first amendment does not shield fraud," justice ruth bader ginsburg wrote for the court in madigan v  telemarketing associates, no  01-1806 
+################################################################################################
+Line#1 (0.823529):"i had one bad stretch of holes that put me out of contention to win," woods said 
+Line#2 (0.583333):"i had one bad stretch of holes that put me out of contention," woods said, referring to his 42 on the front nine saturday 
+################################################################################################
+Line#1 (0.666667):but u s  administration officials moved to talk down snow's impact on currencies, saying his comments were not reflective of washington's policy and were merely an observation about the economy 
+Line#2 (0.909091):u s  administration officials said snow's rate comments were not reflective of washington's policy and were merely an observation about the economy 
+################################################################################################
+Line#1 (0.941176):although obesity can increase the risk of health problems, skeptics argue, so do smoking and high cholesterol 
+Line#2 (0.68):although obesity can increase the risk of a host of health problems, skeptics argue, so do smoking and high cholesterol, which are not considered diseases 
+################################################################################################
+Line#1 (0.666667):he had performed outside cuba on several occasions, including shows in the us last year and in brazil, south africa and several european countries 
+Line#2 (0.823529):he had performed outside of cuba on several occasions, including shows in the united states last year 
+################################################################################################
+Line#1 (0.909091):but the justices ruled that the police supervisor who repeatedly questioned martinez did not violate his fifth amendment rights in doing so 
+Line#2 (0.8):but the justices ruled that the police supervisor who repeatedly questioned mr martinez as he screamed in pain did not violate his fifth amendment rights 
+################################################################################################
+Line#1 (0.909091):the civilian unemployment rate improved marginally last month - sliding down to 6 1 percent - as companies slashed payrolls by 93,000 
+Line#2 (0.677419):the civilian unemployment rate improved marginally last month _ sliding down to 6 1 percent _ as companies slashed payrolls by 93,000 amid continuing mixed signals about the nation's economic health 
+################################################################################################
+Line#1 (0.875):the report that cost mr forlong his career at sky news was screened on 29 march 
+Line#2 (0.714286):the television report that cost forlong his career at sky news and his wife a husband was aired on march 29 
+################################################################################################
+Line#1 (0.703704):the provision requires the secretary of health and human services  news - web sites  to certify that the importations can be done safely and will be cost-effective 
+Line#2 (0.809524):but the measure also requires the secretary of health and human services to certify that the reimportation can be done safely 
+################################################################################################
+Line#1 (0.875):in addition, it offered the united states and israel a way to work around mr  arafat 
+Line#2 (0.695652):when the prime minister's position was established in the spring, it offered the united states and israel a way to work around arafat 
+################################################################################################
+Line#1 (0.740741):on march 6, the board, most of them appointed by gov  george pataki, unanimously agreed to the hikes  they were implemented at the beginning of this month 
+Line#2 (0.857143):on march 6, the board, most of whose members were appointed by gov  george pataki, unanimously agreed to impose the hikes 
+################################################################################################
+Line#1 (0.833333):"but i do question the motives of a deskbound president who assumes the garb of a warrior for the purposes of a speech "
+Line#2 (0.678571):byrd, speaking from the senate floor, said he questioned "the motives of a deskbound president who assumes the garb of a warrior for purposes of a speech "
+################################################################################################
+Line#1 (0.652174):but it now has 600 fewer stores - about 1,500 in all - and a $2 billion loan to compete against bigger merchants 
+Line#2 (0.882353):it now has 600 fewer stores -- about 1,500 in all -- and a $2 billion loan 
+################################################################################################
+Line#1 (0.8125):police said her two small children were alone in the apartment for up to two days 
+Line#2 (0.722222):police said her two small children were alone there for up to two days as she lay dead 
+################################################################################################
+Line#1 (0.944444):the effort is the bush administration's latest effort to expand the role of religious organizations in government services 
+Line#2 (0.64):july 10 - the bush administration's latest effort to expand the role of religious organizations in government services enlists church-based youth groups in anti-drug programs 
+################################################################################################
+Line#1 (0.9):one, from a former cibc executive, described the returns earned by the bank on its enron deals as "outrageous "
+Line#2 (0.689655):the report quotes extensively from internal e-mails, including one from a former cibc executive who described the returns earned by the bank on its enron deals as "outrageous "
+################################################################################################
+Line#1 (0.72):"that obligation to pay rent continues unabated notwithstanding the heinous attacks of sept  11 and the destruction of 1 world trade center," the suit says 
+Line#2 (0.941176):"that obligation to pay rent continues unabated notwithstanding the heinous attacks of 11 september," the suit says 
+################################################################################################
+Line#1 (0.857143):the parade, which moves west along eastern parkway in the crown heights section of brooklyn, went through the district davis represented 
+Line#2 (0.75):the parade, which moved west along eastern parkway in crown heights past hundreds of thousands of spectators, went through the district that davis represented 
+################################################################################################
+Line#1 (0.714286):rosenthal is hereby sentenced to custody of the federal bureau of prisons for one day with credit for time served," breyer said to tumultuous cheers in the courtroom 
+Line#2 (0.857143):"rosenthal is hereby sentenced to custody of the federal bureau of prisons for one day with credit for time served "
+################################################################################################
+Line#1 (0.882353):daniel said it takes about two hours and 15 minutes to drive from his home to nashville 
+Line#2 (0.64):daniel said d'antonio left between 7:15 p m  and 8 p m and it takes about two hours to drive from his home to nashville 
+################################################################################################
+Line#1 (0.818182):defense lawyers had said a change of venue was needed because massive pretrial publicity had tainted the jury pool against their client 
+Line#2 (0.72):defense lawyers had requested a change of venue for two reasons: they argued that massive pretrial publicity had tainted the jury pool against their client 
+################################################################################################
+Line#1 (0.833333):claudette, the first hurricane of the atlantic storm season, hit the mid-texas coast july 15 with 85-mph wind 
+Line#2 (0.607143):claudette, the first hurricane of the atlantic storm season, hit the mid-texas coast july 15, classified as a category 1 hurricane with maximum sustained winds of 85 mph 
+################################################################################################
+Line#1 (0.65):as they wound through police barricades to the funeral home, many chanted "celia, celia" and sang snippets of her songs 
+Line#2 (0.866667):as they wound through police barricades to the funeral home, many chanted "celia, celia "
+################################################################################################
+Line#1 (0.85):the 2000 democratic platform supported "the full inclusion of gay and lesbian families in the life of the nation "
+Line#2 (0.692308):the democrat's 2000 platform didn't explicitly support gay marriages but backed "the full inclusion of gay and lesbian families into the life of the nation "
+################################################################################################
+Line#1 (0.615385):both papers are being published today in the new england journal of medicine 
+Line#2 (0.818182):the study appears today in the new england journal of medicine 
+################################################################################################
+Line#1 (0.823529):australia's view on zimbabwe "will not be changing, irrespective of the views of other countries," he said 
+Line#2 (0.6):before the commitee was formed, mr howard was defiant, saying australia's view on zimbabwe "will not be changing, irrespective of the views of other countries" 
+################################################################################################
+Line#1 (0.904762):mike austreng, editor of the weekly cold spring record, said he saw one wounded student taken from the school by helicopter 
+Line#2 (0.769231):mike austreng, the editor of the weekly cold spring record, said he saw one wounded person airlifted from the school and another taken away by ambulance 
+################################################################################################
+Line#1 (0.818182):the vulnerability affects windows nt 4 0, nt 4 0 terminal services edition, xp and 2000, as well as windows server 2003 
+Line#2 (0.75):microsoft issued a patch for the vulnerability, which affects windows nt 4 0, windows nt 4 0 terminal services edition, windows 2000, windows xp and windows server 2003 
+################################################################################################
+Line#1 (0.625):the panel said some of nasa's cameras were obsolete and others no longer have a good view, because of civilian buildings built near them 
+Line#2 (0.875):others no longer have a good view, it said, because of civilian buildings built near them 
+################################################################################################
+Line#1 (0.645161):the euro was at 1 5276 versus the swiss franc , up 0 2 percent on the session, after hitting its highest since mid-2001 around 1 5292 earlier in the session 
+Line#2 (0.857143):the euro was steady versus the swiss franc after hitting its highest since mid-2001 of 1 5261 earlier in the session 
+################################################################################################
+Line#1 (0.833333):bolivia's army fought to stop columns of protesters from streaming into the food-starved capital on wednesday as a popular uprising against the president spread 
+Line#2 (0.724138):bolivia's army fought to stop a column of dynamite-wielding miners from streaming into the besieged capital on wednesday, leaving two dead as a popular uprising against the president spread 
+################################################################################################
+Line#1 (0.708333):lee, 33, told the newspaper that the girl had dragged the food, toys and other things into her mother's bedroom, where he found her 
+Line#2 (0.882353):lee, 33, said the girl had dragged the food, toys and other things into her mother's bedroom 
+################################################################################################
+Line#1 (0.611111):staff writers selwyn crawford and colleen mccain nelson and brian anderson of dallasnews com contributed to this report 
+Line#2 (0.833333):staff writers brandon formby and colleen mccain nelson contributed to this report 
+################################################################################################
+Line#1 (0.703704):government bonds sold off sharply after greenspan told congress on tuesday that the u s  economy "could very well be embarking on a period of extended growth" 
+Line#2 (0.95):greenspan told congress on tuesday the u s  economy "could very well be embarking on a period of sustained growth" 
+################################################################################################
+Line#1 (0.588235):also thursday, the nyse's board elected six new directors _ three non-industry representatives and three industry representatives 
+Line#2 (0.8125):also thursday, the nyse's board elected six new directors to the board and re-elected six others 
+################################################################################################
+Line#1 (0.75):u s  president george w  bush said "the nation lost a great citizen" with hope's death 
+Line#2 (0.857143):"the nation lost a great citizen," u s  president george w  bush said monday 
+################################################################################################
+Line#1 (0.923077):the manufacturers include fujitsu ltd , mitsubishi electric corp , motorola japan ltd , nec corp , panasonic mobile communications co  ltd , and sharp corp 
+Line#2 (0.766667):companies expected to benefit from the funds are fujitsu ltd , mitsubishi electric corp , motorola japan ltd , nec corp , panasonic mobile communications co  ltd  and sharp corp 
+################################################################################################
+Line#1 (0.823529):daniel c  clark and james hargadon  a former priest, bruce ewing  and two teachers are awaiting trial 
+Line#2 (0.7):two other priests, the revs daniel c clark and james hargadon, and a former priest, bruce ewing, are awaiting trial 
+################################################################################################
+Line#1 (0.653846):the other inmate fell but selenski shimmed down the makeshift rope to a second-story roof and used the mattress to scale a razor-wire fence, fischi said 
+Line#2 (0.823529):after the other inmate fell, selenski used the mattress to scale a 10-foot, razor-wire fence, fischi said 
+################################################################################################
+Line#1 (0.904762):she countersued for $125 million, saying gruner   jahr broke its contract with her by cutting her out of key editorial decisions 
+Line#2 (0.730769):she countersued for $125 million, saying g+j broke its contract with her by cutting her out of key editorial decisions and manipulated the magazine's financial figures 
+################################################################################################
+Line#1 (0.863636):u s  agriculture secretary ann veneman said she will send a u s  technical team to canada to assist in the situation 
+Line#2 (0.653846):u s  agriculture secretary ann veneman, who announced yesterday's ban, also said washington would send a technical team to canada to assist in the canadian situation 
+################################################################################################
+Line#1 (0.857143):in court, stewart briefly waved to courtroom sketch artists seated in the jury box 
+Line#2 (0.619048):stewart waved to courtroom sketch artists seated in the jury box and took notes in a spiral-bound notebook during the hearing 
+################################################################################################
+Line#1 (0.916667):the us senate judiciary committee overcame a significant hurdle yesterday in the battle to create a trust fund to pay victims of asbestos exposure 
+Line#2 (0.766667):the senate judiciary committee on tuesday overcame a significant hurdle in the battle to create a trust fund to pay victims of asbestos exposure but the most difficult obstacles remain 
+################################################################################################
+Line#1 (0.944444):the taiwan stock exchange will ask the securities and futures commission  sfc  to suspend trading in mosel shares 
+Line#2 (0.678571):a request for a two-month extension was denied and the taiwan stock exchange is to ask the securities and futures commission  sfc  to suspend trading in mosel shares 
+################################################################################################
+Line#1 (0.807692):it decided instead to issue them before the stock market opened monday after the downgrade of its debt late friday by moody's, the credit rating agency 
+Line#2 (0.758621):it decided instead to issue them before the stock market opened monday to counteract the downgrade of its debt late friday by moody's to one step above junk status 
+################################################################################################
+Line#1 (0.736842):she was persuaded not to resign but she was expected to be the victim of a forthcoming ministerial reshuffle 
+Line#2 (0.923077):but she was expected to be a victim in a forthcoming ministerial reshuffle 
+################################################################################################
+Line#1 (0.636364):"we are confident that this issue will be behind us by mid-year," said nestle spokesman francois perroud, who declined to comment further 
+Line#2 (0.823529):"we are confident that this issue will be behind us by midyear," said nestlé spokesman francois perroud 
+################################################################################################
+Line#1 (0.956522):the fed's empire state survey far exceeded expectations by jumping to 26 8 in june, a record high, from 10 6 in may 
+Line#2 (0.766667):prices had pulled back from offshore highs when the empire state survey far exceeded expectations by jumping to 26 8 in june, a record high, from 10 6 in may 
+################################################################################################
+Line#1 (0.608696):"but the reality is that there needs to be a big structural change," she added, "and you can't do that without funding "
+Line#2 (0.8125):"but the reality is that there needs to be a big structural change," dr  goin added 
+################################################################################################
+Line#1 (0.833333):"the government elements who have been causing trouble are still in place 
+Line#2 (0.647059):the government elements who have been causing trouble are still in place, they are attacking us "
+################################################################################################
+Line#1 (0.625):the euro was at 1 5281 versus the swiss franc eurchf= , up 0 2 percent on the session, after hitting its highest since mid-2001 around 1 5292 earlier in the session 
+Line#2 (0.857143):the euro was steady versus the swiss franc after hitting its highest since mid-2001 of 1 5261 earlier in the session 
+################################################################################################
+Line#1 (0.76):like the outgoing centre-left coalition, the next government is expected to come under pressure to hand over indicted war criminals or risk losing western aid 
+Line#2 (0.857143):the next government is expected quickly to come under pressure to hand over iwar criminals or risk losing crucial western aid 
+################################################################################################
+Line#1 (0.846154):on the stand wednesday, she said she was referring only to the kissing 
+Line#2 (0.705882):on the stand wednesday, she testified that she was referring to the kissing before the alleged rape 
+################################################################################################
+Line#1 (0.842105):friends of animals president priscilla feral said she would spend the weekend considering the possibility of further legal action 
+Line#2 (0.75):friends of animals president priscilla feral said she is considering the possibility of further legal action but declined to elaborate 
+################################################################################################
+Line#1 (0.631579):ge stock closed friday at $30 65 a share, down about 42 cents, on the new york stock exchange 
+Line#2 (0.857143):ge's shares closed at $30 65 on friday on the new york stock exchange 
+################################################################################################
+Line#1 (0.65):already suffering with the nation's worst credit rating, the state is operating for the first time completely on borrowed money 
+Line#2 (0.8125):the davis administration says the state is operating for the first time completely on borrowed money 
+################################################################################################
+Line#1 (0.904762):the u n  office of the humanitarian coordinator for iraq last week reported that cases of diarrhea have tripled in baghdad 
+Line#2 (0.714286):children get sick from drinking the water: the united nations office of the humanitarian coordinator for iraq last week reported that cases of diarrhea have tripled in baghdad 
+################################################################################################
+Line#1 (0.578947):the house has already approved the measure, and congress twice sent similar legislation to president clinton, who vetoed it 
+Line#2 (0.846154):congress twice sent similar legislation to former president bill clinton, who vetoed it 
+################################################################################################
+Line#1 (0.933333):"high-tech scam artists who think they can hijack the internet should think again," ashcroft said 
+Line#2 (0.652174):"high-tech scam artists who think they can hijack the internet should think again," said assistant attorney general michael chertoff of the criminal division 
+################################################################################################
+Line#1 (0.666667):chaudhry was released 56 days later and the fiji military installed an all-indigenous government led by qarase, who won democratic elections in september 2001 
+Line#2 (0.888889):the fijian military installed an all-indigenous government led by mr qarase, who won democratic elections in september 2001 
+################################################################################################
+Line#1 (0.85):russia had closed checkpoints on parts of the border with china and mongolia until june 4, itar-tass news agency said 
+Line#2 (0.653846):russia has closed dozens of checkpoints on the border with china and mongolia, which has also reported sars cases, until june 4, itar-tass news agency said 
+################################################################################################
+Line#1 (0.75):the u s  military on dec  2 began a large-scale sweep, dubbed operation avalanche, targeting the south and east of the country, where taliban activity has been highest 
+Line#2 (0.84):since dec  2 the u s  military has been engaged in a large-scale sweep, dubbed operation avalanche, targeting the south and east of the country 
+################################################################################################
+Line#1 (0.631579):although they no longer get the glory, desktop pc exceeded idc's shipment expectations in the second quarter, kay said 
+Line#2 (0.846154):desktop pc shipments also exceeded idc's expectations in the second quarter, kay said 
+################################################################################################
+Line#1 (0.576923):limbaugh's lawyer, roy black, has accused the palm beach state attorney's office of having political motives for investigating whether the conservative radio commentator bought painkillers illegally 
+Line#2 (0.823529):limbaugh's attorney, roy black, has accused the state attorney's office of having political motives for its investigation 
+################################################################################################
+Line#1 (0.85):the department's position threatens to alienate social conservatives, who have provided strong political support for mr  ashcroft and president bush 
+Line#2 (0.72):the department's stance disappointed some abortion opponents, and it threatens to alienate social conservatives who have provided strong political support for ashcroft and president bush 
+################################################################################################
+Line#1 (0.708333):for the first time starting thursday, all four pages of the constitution will be on view instead of just the first and last pages 
+Line#2 (0.8125):and for the first time, all four pages of the constitution will be on permanent display 
+################################################################################################
+Line#1 (0.769231):the american anglican council, which represents episcopalian conservatives, said it will seek authorization to create a separate province in north america because of last week's actions 
+Line#2 (0.952381):the american anglican council, which represents episcopalian conservatives, said it will seek authorization to create a separate group in north america 
+################################################################################################
+Line#1 (1):the nea report, the "status of the american public school teacher," aims to help education groups shape their agendas 
+Line#2 (0.8):the nea report, "status of the american public school teacher," aims to help education groups shape their agendas and mold the country's image of teachers 
+################################################################################################
+Line#1 (0.615385):us special forces troops are training colombian soldiers at military bases in the region to protect the pipeline, which transports crude from colombia's second-biggest oil field 
+Line#2 (0.842105):u s  special forces troops are training colombian soldiers at military bases in the region to protect the pipeline 
+################################################################################################
+Line#1 (0.952381):the daily hurriyet said the raid aimed to foil a turkish plot to kill an unnamed senior iraqi official in kirkuk 
+Line#2 (0.758621):the daily hurriyet said the raid aimed to foil a turkish plot to kill an unnamed senior iraqi kurdish official in kirkuk, but gul has denied any turkish plot 
+################################################################################################
+Line#1 (0.9):the women said victims of rape who came forward routinely were punished for minor infractions while their assailants escaped judgment 
+Line#2 (0.730769):the women said victims of rape who came forward were routinely punished for minor infractions while their attackers escaped judgment, prompting most victims to remain silent 
+################################################################################################
+Line#1 (0.857143):"americans don't cut and run, we have to see this misadventure through," she said 
+Line#2 (0.666667):she also pledged to bring peace to iraq: "americans don't cut and run, we have to see this misadventure through "
+################################################################################################
+Line#1 (0.666667):amnesty international has said that over the past 20 years it has collected information about 17,000 disappearances in iraq but the actual figure may be much higher 
+Line#2 (0.944444):amnesty international said that over the past 20 years it had collected information about 17,000 disappearances in iraq 
+################################################################################################
+Line#1 (0.9375):the bluecore3-multimedia includes a 16-bit stereo audio codec with dual adc and dac for stereo audio 
+Line#2 (0.695652):bluecore3-multimedia contains an open platform dsp co-processor and also includes a 16-bit stereo audio codec with dual adc and dac for stereo audio 
+################################################################################################
+Line#1 (0.8125):he and his colleagues attributed some of the communication gap to doctors feeling pressed for time 
+Line#2 (0.684211):he attributed some of the communication gap to doctors feeling pressed for time  patients cited discomfort discussing financial issues 
+################################################################################################
+Line#1 (0.689655):the three men have pleaded not guilty and their lawyers have asked the high court to dismiss the charges, saying the state has failed to present a solid case 
+Line#2 (0.95):defense lawyers asked the high court to dismiss the charges, saying the state has failed to present a solid case 
+################################################################################################
+Line#1 (0.842105):david brame fatally shot his wife and then himself on april 26 in a gig harbor shopping-mall parking lot 
+Line#2 (0.72):david brame shot his wife and then himself april 26 in a gig harbor parking lot as their two children sat in his car nearby 
+################################################################################################
+Line#1 (0.64):republicans had pledged to complete a medicare drug package by august, then extended the deadline to oct  17, and they are still working on it 
+Line#2 (0.941176):republicans had pledged to complete a medicare drug package by august, then extended it to oct  17 
+################################################################################################
+Line#1 (0.666667):caldera acquired the unix server software of the original sco and changed its name to the sco group 
+Line#2 (0.875):sco changed its name to tarantella, and caldera later changed its name to the sco group 
+################################################################################################
+Line#1 (1):"i notice a mood change in their priorities," one politician said 
+Line#2 (0.647059):"i notice a mood change in their priorities," said one iraqi politician after meeting with mr  bremer 
+################################################################################################
+Line#1 (0.65):"it's very difficult to do large syndicated loans in japan," where there is a lack of expertise, says one banker 
+Line#2 (0.928571):"it is very difficult to do large syndicated loans in japan," says one banker 
+################################################################################################
+Line#1 (0.863636):he said the fda was hoping congress and the courts would bring clarity to the situation and some financial relief to consumers 
+Line#2 (0.730769):he said fda hopes congress and the courts will bring clarity to the situation and some financial relief to consumers — perhaps before the 2004 elections 
+################################################################################################
+Line#1 (0.692308):bremer, 61, is a onetime assistant to former secretaries of state william p  rogers and henry kissinger and was ambassador-at-large for counterterrorism from 1986 to 1989 
+Line#2 (1):bremer, 61, is a former assistant to former secretaries of state william p  rogers and henry kissinger 
+################################################################################################
+Line#1 (0.68):eight firefighters also suffered minor injuries, including burns, heat exhaustion, bruises and muscle strain, and were treated and released from the hospital, fire officials said 
+Line#2 (0.9375):eight firefighters also suffered minor injuries, including burns, heat, bruises and muscle strain, fire officials said 
+################################################################################################
+Line#1 (0.833333):part of the accord was the implementation of a special health council that would monitor health spending and progress in reforming the health system 
+Line#2 (0.689655):a key portion of the accord was the implementation of a special council to monitor health spending, set goals for the system and measure progress in reforming health care 
+################################################################################################
+Line#1 (0.666667):he had been arrested twice before for trespassing and barred from the complex - home to his mother and two children 
+Line#2 (0.928571):he had been arrested twice before for trespassing and was barred from the complex 
+################################################################################################
+Line#1 (0.65):officers threw him to the ground and handcuffed him, and reyna dropped a knee into his back, according to testimony 
+Line#2 (0.857143):that's when officers threw him to the ground and handcuffed him, according to testimony 
+################################################################################################
+Line#1 (0.846154):colgate shares closed monday at $56 30 on the new york stock exchange 
+Line#2 (0.647059):colgate shares were down 30 cents at $56 in morning trade on the new york stock exchange 
+################################################################################################
+Line#1 (0.952381):the monkeys could track their progress by watching a schematic representation of the arm and its motions on a video screen 
+Line#2 (0.793103):the arm was kept in a separate room, but the monkeys could track their progress by watching a representation of the arm and its motions on a video screen 
+################################################################################################
+Line#1 (0.653846):"further testing is still under way, but at this stage, given the early detection, the outlook in such instances would be positive," the specialist said yesterday 
+Line#2 (0.888889):"but at this stage, given the early detection, the outlook in such instances would be positive," he said 
+################################################################################################
+Line#1 (0.857143):every thursday, a grains management committee meets in the commission's agriculture directorate to decide the outcome of a weekly export tender 
+Line#2 (0.655172):a grains management committee normally meets each thursday in the commission's agriculture unit -- another target of wednesday's raids -- to decide the outcome of a weekly export tender 
+################################################################################################
+Line#1 (0.692308):he said the attackers left behind leaflets urging staff at the ishtar sheraton to stop working at the hotel and demanding u s  forces leave iraq 
+Line#2 (0.947368):he said the attackers left behind leaflets urging workers at the ishtar sheraton to stop working at the hotel 
+################################################################################################
+Line#1 (0.923077):mcgill also detailed the hole that had been cut in the caprice's trunk 
+Line#2 (0.578947):mcgill also said a dark glove was stuffed into a hole that had been cut in the caprice's trunk 
+################################################################################################
+Line#1 (0.933333):a senior whitehall official said: "it devalued the currency, there is no question about that 
+Line#2 (0.681818):a senior whitehall official said recently: "it devalued the currency, there is no question about that       it was a monumental cock-up "
+################################################################################################
+Line#1 (0.62069):"the recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead "
+Line#2 (0.818182):the recent turnaround in the stock market and an easing in unemployment claims "may signal more favorable economic times ahead," she said 
+################################################################################################
+Line#1 (0.625):anything less is unacceptable," said gordon, the ranking democrat on the house space and aeronautics subcommittee 
+Line#2 (0.846154):gordon is the senior democrat on the house subcommittee on space and aeronautics 
+################################################################################################
+Line#1 (0.695652):spokesmen for the fbi, cia, canadian security intelligence service and royal canadian mounted police declined to comment on el shukrijumah's stay in canada 
+Line#2 (0.85):the fbi, cia, canadian security intelligence service and royal canadian mounted police declined to comment on the washington times report 
+################################################################################################
+Line#1 (0.857143):dr  anthony fauci, director of the national institute of allergy and infectious diseases, agreed 
+Line#2 (0.631579):"we have been somewhat lucky," said dr  anthony fauci, director of the national institute of allergy and infectious diseases 
+################################################################################################
+Line#1 (0.529412):since early may, the city has received 1,400 reports of dead blue jays and crows, jayroe said 
+Line#2 (0.818182):since early may, the city has received 1,400 reports, he said 
+################################################################################################
+Line#1 (0.823529):the mother also alleged in the lawsuit that she was sexually assaulted by one of the guards 
+Line#2 (0.777778):the mother also contended that she was sexually assaulted by one of the guards during the 1998 confrontation 
+################################################################################################
+Line#1 (0.666667):critics say the law violates civil liberties, something house judiciary committee chairman james sensenbrenner, r-wis , says he is sensitive to 
+Line#2 (0.875):house judiciary committee chairman james sensenbrenner, r-wis , says he is sensitive to civil liberties complaints 
+################################################################################################
+Line#1 (0.666667):the bishop told police he thought he had hit a dog or a cat or that someone had thrown a rock at his vehicle 
+Line#2 (0.8125):bishop o'brien, aged 67, had told police he thought he had hit a dog or cat 
+################################################################################################
+Line#1 (0.8125):and of those, 149, or 55%, "claimed to treat, prevent, diagnose or cure specific diseases "
+Line#2 (0.56):and of those, 55 percent, or 149, claimed to treat, prevent, diagnose or cure specific diseases -- despite the regulations prohibiting that kind of statement 
+################################################################################################
+Line#1 (0.653846):state democratic chairman herman farrell, who is also chairman of the state assembly's ways and means committee, seemed perfectly happy to make it a political fight 
+Line#2 (0.809524):state democratic chairman herman farrell, who is also chairman of the assembly's ways and means committee, supports the legislature's budget plan 
+################################################################################################
+Line#1 (0.733333):prosecutors did an about-face in may and asked that the autopsy reports be unsealed after portions of conner peterson's autopsy report favorable to the defense were leaked to the media 
+Line#2 (0.862069):they asked that the autopsy reports be unsealed after portions of the autopsy report on peterson's unborn son that were favorable to the defense were leaked to the media 
+################################################################################################
+Line#1 (0.666667):the women said those rape victims who did come forward were routinely punished for minor infractions while their assailants escaped judgement, prompting most victims to remain silent 
+Line#2 (0.85):the women said victims of rape who came forward routinely were punished for minor infractions while their assailants escaped judgment 
+################################################################################################
+Line#1 (0.703704):"what can i say to you " he told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families 
+Line#2 (0.904762):mr  powell told a crowd at a cemetery with a thousand headstones, many of them marking the graves of entire families 
+################################################################################################
+Line#1 (0.944444):aventis, based in strasbourg, france, is one of a handful of companies that still make the flu vaccine 
+Line#2 (0.84):aventis, based in strasbourg, france, is one of the leading producers of the vaccine and one of a handful of companies that still make it 
+################################################################################################
+Line#1 (0.833333):she was 26 then, and a friend tipped her to another position and told her whom to call 
+Line#2 (0.652174):westermayer was 26 then, and a friend and former manager who knew she was unhappy in her job tipped her to another position 
+################################################################################################
+Line#1 (0.714286):the valid signatures of 897,158 registered california voters must be collected and turned in to county election officials by sept  2 
+Line#2 (0.818182):to force a recall election of davis, the valid signatures of 897,158 registered california voters must be turned in to election officials 
+################################################################################################
+Line#1 (0.62963):the commission dropped charges that patton improperly appointed conner to the kentucky lottery board and that he improperly appointed conner's then-husband, seth, to the agriculture development board 
+Line#2 (0.809524):patton also appointed conner to the kentucky lottery board and appointed seth conner to the agriculture development board, the commission says 
+################################################################################################
+Line#1 (0.793103):reuters witnesses said many houses had been flattened and the city squares were packed with crying children and the homeless, huddled in blankets to protect them from the cold 
+Line#2 (0.869565):reuters witnesses said public squares were packed with crying children and people left homeless, huddled in blankets to protect them from the cold 
+################################################################################################
+Line#1 (0.823529):russin did not comment  his lawyer did not attend the hearing and did not return phone messages 
+Line#2 (0.705882):his lawyer, a cousin, basil russin, did not attend the hearing and did not return phone messages 
+################################################################################################
+Line#1 (0.866667):the attack seemed similar to others staged near foreign compounds in riyadh on may 12 
+Line#2 (0.590909):the attack seemed similar to attacks staged near foreign compounds in riyadh on may 12, for which officials have also blamed al-qaida 
+################################################################################################
+Line#1 (0.789474):police believe wilson shot reynolds, then her mother once in the head before fatally turning the gun on herself 
+Line#2 (0.833333):police believe wilson then shot jennie mae robinson once in the head before turning the gun on herself 
+################################################################################################
+Line#1 (0.653846):the government did not identify the taikonauts — a term coined from ‘‘taikong,’’ the chinese word for space — who would travel on the second mission 
+Line#2 (0.888889):the government did not identify the taikonauts -- a term coined from taikong, the chinese word for space 
+################################################################################################
+Line#1 (0.653846):it is priced at $5,995 for an unlimited number of users tapping into the single processor, or $195 per user with a minimum of five users 
+Line#2 (0.842105):it is priced at $5,995 or $195 on a per user licensing plan with a minimum of five users 
+################################################################################################
+Line#1 (0.941176):the two democrats on the five-member fcc panel held a news conference to sway opinion against powell 
+Line#2 (0.818182):the two democrats on the five-member fcc held a news conference to sway opinion against powell and the panel's two other republicans 
+################################################################################################
+Line#1 (0.76):the house voted 425 to 2 to clear the bill, the first of 13 that congress must pass each year to fund the federal government 
+Line#2 (0.842105):the bill is among the first of 13 that congress must pass each year to fund the federal government 
+################################################################################################
+Line#1 (0.8125):the highest-paid washington private-college president is susan resneck pierce, who heads the university of puget sound 
+Line#2 (0.7):the highest-paid private-college president in washington is university of puget sound president susan resneck pierce at $314,160, the chronicle said 
+################################################################################################
+Line#1 (0.826087):on may 1, he crawled through a narrow, winding canyon, rappelled down a 60-foot cliff and walked some six miles down the canyon 
+Line#2 (0.703704):he crawled through a narrow, winding canyon, rappelled down a 60-foot cliff, and walked some six miles down the canyon near canyonlands national park in southeastern utah 
+################################################################################################
+Line#1 (0.827586):in a mixture of ancient pagan and modern christian rites, the villagers have staged a series of ceremonies hoping to erase the misfortunes they believe have kept them poor 
+Line#2 (0.724138):in a mixture of ancient melanesian pagan and modern christian ceremonies the people tried again to erase the misfortunes they believe have kept them poor since that long-ago meal 
+################################################################################################
+Line#1 (0.692308):"we put a lot of effort and energy into improving our patching process, probably later than we should have and now we're just gaining incredible speed 
+Line#2 (0.894737):"we've put a lot of effort and energy into improving our patching progress, probably later than we should have 
+################################################################################################
+Line#1 (0.692308):on thursday, a washington post article argued that a 50 basis point cut from the fed was more likely, contrary to the wall street journal's line 
+Line#2 (0.944444):on thursday, a post article argued that a 50 basis point cut from the fed was more likely 
+################################################################################################
+Line#1 (0.894737):the new analysis found that 32 of the 16,608 participants developed ovarian cancer during about 5 years of follow-up 
+Line#2 (0.64):the new analysis found that 32 of 16,608 participants developed ovarian cancer in about 5 1 2 years of follow-up, including 20 women taking hormones 
+################################################################################################
+Line#1 (0.684211):besides hampton and newport news, the grant funds water testing in yorktown, king george county, norfolk and virginia beach 
+Line#2 (0.928571):the grant also funds beach testing in king george county, norfolk and virginia beach 
+################################################################################################
+Line#1 (0.75):however, we have decided to opt for the european consortium's engine as the best overall solution and due to the substantial price efforts made" 
+Line#2 (0.941176):however, we have decided to opt for the european consortium's engine as the best overall solution "
+################################################################################################
+Line#1 (0.782609):the military said it had killed 12 rebels and captured nine in the campaign so far, for the loss of six soldiers wounded 
+Line#2 (0.826087):the military said it had killed 16 rebels and captured nine in the campaign so far, with one soldier killed and six wounded 
+################################################################################################
+Line#1 (0.666667):officials are trying to retrieve the bodies from the water," police officer j d  tambe told reuters, adding 26 of the dead were women 
+Line#2 (0.882353):officials are trying to retrieve the bodies from the water," police official j d  tambe told reuters 
+################################################################################################
+Line#1 (0.857143):the blaze then spread to several surrounding structures on the property and destroyed them 
+Line#2 (0.666667):the fire spread to several surrounding structures on the property and destroyed them as deputies held back firefighters 
+################################################################################################
+Line#1 (0.869565):air canada, the largest airline in canada and no  11 in the world, has been under court protection from creditors since april 1 
+Line#2 (1):the no  11 airline in the world, air canada has been under court protection from creditors since april 1 
+################################################################################################
+Line#1 (0.818182):he urged congress to "send me the final bill as soon as possible so that i can sign it into law "
+Line#2 (0.642857):"i urge congress to quickly resolve any differences and send me the final bill as soon as possible so that i can sign it into law," he said 
+################################################################################################
+Line#1 (0.944444):the american anglican council, which represents episcopalian conservatives, said it will seek authorization to create a separate group 
+Line#2 (0.653846):the american anglican council, which represents episcopalian conservatives, said it will seek authorization to create a separate province in north america because of last week's actions 
+################################################################################################
+Line#1 (0.882353):german prosecutors have ruled out any charges in germany, meaning extradition "could happen very soon," ullrich said 
+Line#2 (0.615385):studabaker told the court he would not contest extradition and german prosecutors have ruled out any charges here, meaning extradition "could happen very soon," ullrich said 
+################################################################################################
+Line#1 (0.818182):nbc will probably end the season as the second most popular network behind cbs, although it's first among the key 18-to-49-year-old demographic 
+Line#2 (0.857143):nbc will probably end the season as the second most-popular network behind cbs, which is first among the key 18-to-49-year-old demographic 
+################################################################################################
+Line#1 (0.857143):dotson told fbi agents that he shot dennehy after the player tried to shoot him, according to the arrest warrant affidavit 
+Line#2 (0.75):dotson was arrested july 21 after telling fbi agents he shot dennehy when dennehy tried to shoot him, according to the arrest warrant affidavit 
+################################################################################################
+Line#1 (0.52381):the last month has been a whirlwind for an 18-year-old who led his high school team to the ohio state championship 
+Line#2 (0.846154):the last month has been a whirlwind for the 18-year-old from akron, ohio 
+################################################################################################
+Line#1 (0.9375):"it is the only vehicle on which established economies will be able to compete," barrett said 
+Line#2 (0.666667):"it is the only vehicle on which established economies will be able to compete" with fast-growing economies such as china and india, barrett said 
+################################################################################################
+Line#1 (0.809524):several thousand 3rd infantry troops, including the 3rd brigade combat team based at fort benning in columbus, began returning last week 
+Line#2 (0.592593):a few thousand troops, most from the division's 3rd brigade combat team based at fort benning in columbus, began returning last week, with flights continuing through friday 
+################################################################################################
+Line#1 (0.882353):oran smith, president of the palmetto family council, said the assassination marked the end of america's innocence 
+Line#2 (0.64):oran smith, president of the palmetto family council, said the assassination marked the end of america’s innocence, giving way to the if-it-feels-good-do-it 1960s and ’70s 
+################################################################################################
+Line#1 (0.678571):suvs parked on residential streets in monrovia were tagged with "elf" and other slogans, and another was set ablaze in front of a house, sgt  tom wright said 
+Line#2 (0.894737):several suvs parked on residential streets in monrovia were tagged with ``elf'' and other slogans, said sgt  tom wright 
+################################################################################################
+Line#1 (0.904762):entrenched interests are positioning themselves to control the network's chokepoints and they are lobbying the fcc to aid and abet them 
+Line#2 (0.703704):it may be dying because entrenched interests are positioning themselves to control the internet's choke-points and they are lobbying the fcc to aid and abet them "
+################################################################################################
+Line#1 (0.863636):bush turned out a statement yesterday thanking the commission for its work, and said, "our journey into space will go on "
+Line#2 (0.655172):mr  bush did not discuss this when he issued a brief statement yesterday thanking the commission for its work, and saying, "our journey into space will go on "
+################################################################################################
+Line#1 (0.714286):crews worked to install a new culvert and prepare the highway so motorists could use the eastbound lanes for travel as storm clouds threatened to dump more rain 
+Line#2 (0.95):crews worked to install a new culvert and repave the highway so motorists could use the eastbound lanes for travel 
+################################################################################################
