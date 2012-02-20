@@ -1,0 +1,4 @@
+This project is for Paraphrase detection using Microsoft Research Corpus.
+The code gives around 83.1% which is better than state of the art. A lot
+of cleanup is required and some new features have to be incorporated for
+better results. This would be added soon.
